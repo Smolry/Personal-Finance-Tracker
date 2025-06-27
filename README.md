@@ -21,18 +21,18 @@ An interactive web app that helps you track expenses, detect recurring payments,
 - 💾 Save to SQLite (optional)
 
 ## 📁 Project Structure
-├── app.py # Streamlit app
-├── src/
-│ ├── categorizer.py
-│ ├── ml_categorizer.py
-│ ├── data_loader.py
-│ └── insights.py
-├── scripts/
-│ └── create_sample_data.py
-├── data/
-│ └── (generated at runtime)
-├── requirements.txt
-└── .gitignore
+- ├── app.py # Streamlit app
+- ├── src/
+- │ ├── categorizer.py
+- │ ├── ml_categorizer.py
+- │ ├── data_loader.py
+- │ └── insights.py
+- ├── scripts/
+- │ └── create_sample_data.py
+- ├── data/
+- │ └── (generated at runtime)
+- ├── requirements.txt
+- └── .gitignore
 
 
 ## 🛠 How to Run Locally
@@ -43,13 +43,13 @@ An interactive web app that helps you track expenses, detect recurring payments,
    cd YOUR_REPO
 
 2. Create virtual environment and install dependencies:
-python -m venv venv
-venv\Scripts\activate  
-source venv/bin/activate  
-pip install -r requirements.txt
+   python -m venv venv
+   venv\Scripts\activate
+   source venv/bin/activate
+   pip install -r requirements.txt
 
 3. Run the app:
-streamlit run app.py
+   streamlit run app.py
 
 
 ## 🧠 ML Categorization
