@@ -43,12 +43,14 @@ An interactive web app that helps you track expenses, detect recurring payments,
    cd YOUR_REPO
 
 2. Create virtual environment and install dependencies:
+   ```bash
    python -m venv venv
    venv\Scripts\activate
    source venv/bin/activate
    pip install -r requirements.txt
 
 3. Run the app:
+   ```bash
    streamlit run app.py
 
 
