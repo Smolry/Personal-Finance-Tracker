@@ -49,3 +49,9 @@ Thumbs.db
 # --------------------
 *.tmp
 *.swp
+
+.gitignore
+.streamlit/
+DEPLOYMENT_GUIDE.md
+ml_categorizer_enhanced.py
+
