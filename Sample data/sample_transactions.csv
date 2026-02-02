@@ -1,0 +1,131 @@
+date,description,amount,category
+2024-11-01,Interest,3051.1,Income
+2024-11-05,Uber,-55.57,Transportation
+2024-11-06,Water Bill,-184.71,Utilities
+2024-11-07,Dividend,2219.56,Income
+2024-11-07,Online Shopping,-33.99,Shopping
+2024-11-12,Gas Bill,-156.46,Utilities
+2024-11-13,Safeway,-141.42,Groceries
+2024-11-17,Water Bill,-125.09,Utilities
+2024-11-18,Movie Theater,-13.94,Entertainment
+2024-11-18,Kroger,-79.66,Groceries
+2024-11-18,Best Buy,-60.69,Shopping
+2024-11-22,Amazon,-82.66,Shopping
+2024-11-22,Best Buy,-155.52,Shopping
+2024-11-25,Kroger,-25.24,Groceries
+2024-11-27,Gas Bill,-148.68,Utilities
+2024-11-27,Dividend,4969.1,Income
+2024-11-27,Target,-159.42,Shopping
+2024-11-27,Chipotle,-30.82,Dining
+2024-11-28,Gas Bill,-144.04,Utilities
+2024-12-01,Salary Deposit,3500.0,Income
+2024-12-01,Netflix,-15.99,Entertainment
+2024-12-01,Rent Payment,-1200.0,Housing
+2024-12-01,Phone Bill,-75.0,Utilities
+2024-12-01,Internet Provider,-89.99,Utilities
+2024-12-03,Movie Theater,-37.62,Entertainment
+2024-12-07,Lyft,-39.11,Transportation
+2024-12-11,Target,-58.13,Shopping
+2024-12-11,Side Gig,3928.57,Income
+2024-12-13,Pizza Hut,-73.97,Dining
+2024-12-13,Spotify,-25.8,Entertainment
+2024-12-14,Movie Theater,-24.72,Entertainment
+2024-12-15,Amazon Prime,-40.1,Entertainment
+2024-12-21,Netflix,-32.63,Entertainment
+2024-12-22,Salary Deposit,4602.78,Income
+2024-12-22,Movie Theater,-49.1,Entertainment
+2024-12-23,Chipotle,-46.26,Dining
+2024-12-25,Gaming,-46.57,Entertainment
+2024-12-25,Whole Foods,-74.12,Groceries
+2024-12-25,Online Shopping,-139.91,Shopping
+2024-12-26,Amazon,-102.52,Shopping
+2024-12-28,Salary Deposit,3500.0,Income
+2024-12-28,Rent Payment,-1200.0,Housing
+2024-12-28,Internet Provider,-89.99,Utilities
+2024-12-28,Netflix,-15.99,Entertainment
+2024-12-28,Phone Bill,-75.0,Utilities
+2024-12-29,Whole Foods,-48.15,Groceries
+2025-01-02,Uber,-59.31,Transportation
+2025-01-05,Walmart,-139.51,Groceries
+2025-01-08,Gaming,-10.31,Entertainment
+2025-01-09,Online Shopping,-30.27,Shopping
+2025-01-11,Movie Theater,-27.84,Entertainment
+2025-01-14,Netflix,-38.97,Entertainment
+2025-01-14,Target,-187.93,Shopping
+2025-01-14,Movie Theater,-24.74,Entertainment
+2025-01-17,Public Transit,-37.76,Transportation
+2025-01-17,Uber,-42.89,Transportation
+2025-01-19,Trader Joe's,-81.41,Groceries
+2025-01-23,Lyft,-57.82,Transportation
+2025-01-26,Safeway,-65.42,Groceries
+2025-01-28,Phone Bill,-75.0,Utilities
+2025-01-28,Netflix,-15.99,Entertainment
+2025-01-28,Rent Payment,-1200.0,Housing
+2025-01-28,Internet Provider,-89.99,Utilities
+2025-01-28,Salary Deposit,3500.0,Income
+2025-01-30,Netflix,-10.08,Entertainment
+2025-02-02,Refund,2041.22,Income
+2025-02-04,Electric Company,-149.17,Utilities
+2025-02-05,Salary Deposit,2440.85,Income
+2025-02-10,Phone Bill,-152.3,Utilities
+2025-02-11,Safeway,-142.33,Groceries
+2025-02-11,Uber,-29.89,Transportation
+2025-02-11,Car Repair,-50.9,Transportation
+2025-02-13,Amazon Prime,-18.52,Entertainment
+2025-02-15,Lyft,-41.26,Transportation
+2025-02-18,Walmart,-124.18,Groceries
+2025-02-23,Amazon Prime,-46.53,Entertainment
+2025-02-24,Best Buy,-52.21,Shopping
+2025-02-25,Target,-30.55,Shopping
+2025-02-26,Side Gig,1099.37,Income
+2025-02-26,Internet Provider,-78.66,Utilities
+2025-02-28,Internet Provider,-66.95,Utilities
+2025-03-01,Netflix,-15.99,Entertainment
+2025-03-01,Phone Bill,-75.0,Utilities
+2025-03-01,Internet Provider,-89.99,Utilities
+2025-03-01,Rent Payment,-1200.0,Housing
+2025-03-01,Salary Deposit,3500.0,Income
+2025-03-03,Amazon Prime,-18.19,Entertainment
+2025-03-05,Netflix,-49.57,Entertainment
+2025-03-05,Online Shopping,-196.52,Shopping
+2025-03-05,Amazon Prime,-16.82,Entertainment
+2025-03-05,Safeway,-33.75,Groceries
+2025-03-08,Refund,3557.88,Income
+2025-03-08,Refund,1254.29,Income
+2025-03-08,Uber,-27.83,Transportation
+2025-03-20,Target,-127.65,Shopping
+2025-03-20,Gas Bill,-115.08,Utilities
+2025-03-21,Phone Bill,-92.83,Utilities
+2025-03-21,Public Transit,-36.3,Transportation
+2025-03-22,Lyft,-34.14,Transportation
+2025-03-23,Online Shopping,-31.48,Shopping
+2025-03-23,Spotify,-37.59,Entertainment
+2025-03-23,Kroger,-44.67,Groceries
+2025-03-25,Trader Joe's,-147.7,Groceries
+2025-03-25,Best Buy,-125.27,Shopping
+2025-03-28,Salary Deposit,3500.0,Income
+2025-03-28,Internet Provider,-89.99,Utilities
+2025-03-28,Best Buy,-162.53,Shopping
+2025-03-28,Rent Payment,-1200.0,Housing
+2025-03-28,Phone Bill,-75.0,Utilities
+2025-03-28,Netflix,-15.99,Entertainment
+2025-04-01,Dividend,2609.05,Income
+2025-04-03,Best Buy,-91.4,Shopping
+2025-04-03,Whole Foods,-39.53,Groceries
+2025-04-04,Water Bill,-80.24,Utilities
+2025-04-08,Chipotle,-71.91,Dining
+2025-04-13,Macy's,-61.03,Shopping
+2025-04-15,Macy's,-196.14,Shopping
+2025-04-19,Chipotle,-64.88,Dining
+2025-04-20,Whole Foods,-108.18,Groceries
+2025-04-21,Water Bill,-111.47,Utilities
+2025-04-23,Walmart,-71.54,Groceries
+2025-04-25,Chipotle,-46.76,Dining
+2025-04-25,Uber,-25.86,Transportation
+2025-04-28,Pizza Hut,-22.3,Dining
+2025-04-28,Phone Bill,-75.0,Utilities
+2025-04-28,Rent Payment,-1200.0,Housing
+2025-04-28,Internet Provider,-89.99,Utilities
+2025-04-28,Salary Deposit,3500.0,Income
+2025-04-28,Netflix,-15.99,Entertainment
+2025-04-29,Best Buy,-74.4,Shopping
