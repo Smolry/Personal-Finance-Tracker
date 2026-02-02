@@ -1,0 +1,1627 @@
+date,description,amount,category
+2025-02-08,Mortgage Payment,-1793.0,Housing
+2025-02-08,Home Insurance,-2128.2,Housing
+2025-02-08,Home Insurance,-1768.26,Housing
+2025-02-08,Jiffy Lube,-29.17,Transportation
+2025-02-08,Gym Membership,-59.51,Entertainment
+2025-02-09,Physical Therapy,-71.43,Health
+2025-02-09,Airbnb,-1298.02,Travel
+2025-02-09,Eye Doctor,-87.96,Health
+2025-02-09,Medical Clinic,-132.65,Health
+2025-02-09,Target,-145.94,Groceries
+2025-02-09,Apartment Maintenance,-2062.46,Housing
+2025-02-09,Lowes,-57.85,Shopping
+2025-02-10,New York Times,-7.04,Subscriptions
+2025-02-10,Comcast Internet,-89.99,Utilities
+2025-02-10,City Water Department,-126.95,Utilities
+2025-02-10,Bank Interest,3474.02,Income
+2025-02-10,CVS Pharmacy,-180.15,Health
+2025-02-11,AMC Theaters,-45.41,Entertainment
+2025-02-11,H&M,-140.45,Shopping
+2025-02-11,Whole Foods Market,-135.53,Groceries
+2025-02-11,Albertsons,-127.47,Groceries
+2025-02-11,Staples,-72.16,Shopping
+2025-02-11,eBay,-231.75,Shopping
+2025-02-11,Rent Payment,-2365.37,Housing
+2025-02-12,Amazon Prime,-14.99,Subscriptions
+2025-02-12,Chipotle Mexican Grill,-52.25,Dining
+2025-02-12,City Water Department,-67.47,Utilities
+2025-02-13,DoorDash,-29.4,Dining
+2025-02-13,Chevron,-28.74,Transportation
+2025-02-14,Health Insurance Premium,-108.46,Health
+2025-02-14,American Airlines,-1294.49,Travel
+2025-02-14,Costco,-27.13,Groceries
+2025-02-14,LinkedIn Premium,-56.81,Subscriptions
+2025-02-14,Costco,-161.31,Groceries
+2025-02-15,Verizon Wireless,-75.0,Utilities
+2025-02-15,Whole Foods Market,-159.51,Groceries
+2025-02-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-02-15,Nintendo eShop,-38.32,Entertainment
+2025-02-15,Hilton Hotels,-1377.12,Travel
+2025-02-16,City Water Department,-71.3,Utilities
+2025-02-17,Fitness Center,-178.03,Health
+2025-02-17,Southwest Airlines,-1315.38,Travel
+2025-02-17,Enterprise Rent-A-Car,-706.44,Travel
+2025-02-18,Best Buy,-325.45,Shopping
+2025-02-18,Property Tax,-2431.35,Housing
+2025-02-18,American Airlines,-553.43,Travel
+2025-02-18,Nintendo eShop,-46.41,Entertainment
+2025-02-18,Comcast Internet,-204.67,Utilities
+2025-02-18,Adobe Creative Cloud,-38.95,Subscriptions
+2025-02-19,Student Loan Payment,-3919.17,Education
+2025-02-19,Target,-58.22,Shopping
+2025-02-19,Publix,-44.19,Groceries
+2025-02-19,Publix,-77.24,Groceries
+2025-02-19,Enterprise Rent-A-Car,-1235.7,Travel
+2025-02-20,Lyft,-55.75,Transportation
+2025-02-20,Coursera,-3605.64,Education
+2025-02-20,Stop & Shop,-61.43,Groceries
+2025-02-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-02-20,Car Wash,-11.28,Transportation
+2025-02-20,Health Insurance Premium,-51.55,Health
+2025-02-21,Auto Repair Shop,-70.4,Transportation
+2025-02-21,Student Loan Payment,-4066.17,Education
+2025-02-21,Airbnb,-1389.67,Travel
+2025-02-21,Southwest Airlines,-1012.89,Travel
+2025-02-22,Payroll Deposit - Company Inc,5594.19,Income
+2025-02-22,Food Lion,-71.67,Groceries
+2025-02-22,Food Lion,-56.78,Groceries
+2025-02-22,Health Insurance Premium,-73.6,Health
+2025-02-22,Starbucks,-31.27,Dining
+2025-02-23,University Tuition,-386.68,Education
+2025-02-23,Whole Foods Market,-152.58,Groceries
+2025-02-23,Olive Garden,-36.66,Dining
+2025-02-24,Medical Clinic,-83.43,Health
+2025-02-24,Electric Company,-227.77,Utilities
+2025-02-24,Southwest Airlines,-816.75,Travel
+2025-02-24,Chipotle Mexican Grill,-11.82,Dining
+2025-02-25,T-Mobile,-102.57,Utilities
+2025-02-25,Home Insurance,-1413.78,Housing
+2025-02-25,Amazon Prime Video,-34.85,Entertainment
+2025-02-25,Nintendo eShop,-35.98,Entertainment
+2025-02-25,Hertz Rental Car,-581.16,Travel
+2025-02-25,Amazon Prime Video,-31.97,Entertainment
+2025-02-26,HBO Max,-36.09,Entertainment
+2025-02-27,H&M,-205.63,Shopping
+2025-02-27,LinkedIn Premium,-43.85,Subscriptions
+2025-02-27,Zara,-25.26,Shopping
+2025-02-28,Prescription Refill,-125.68,Health
+2025-02-28,Microsoft 365,-65.84,Subscriptions
+2025-02-28,Steam,-43.29,Entertainment
+2025-02-28,PlayStation Store,-21.11,Entertainment
+2025-02-28,T-Mobile,-137.86,Utilities
+2025-03-01,Jiffy Lube,-53.83,Transportation
+2025-03-01,Spotify Premium,-9.99,Entertainment
+2025-03-01,Rent Payment,-1200.0,Housing
+2025-03-01,Metro Card,-14.44,Transportation
+2025-03-01,Netflix,-15.99,Entertainment
+2025-03-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-03-01,Gym Membership,-45.0,Entertainment
+2025-03-02,Hilton Hotels,-404.48,Travel
+2025-03-02,Target,-133.69,Groceries
+2025-03-02,Side Hustle Income,5135.9,Income
+2025-03-02,Exxon Mobil,-17.42,Transportation
+2025-03-02,Chick-fil-A,-84.67,Dining
+2025-03-03,HOA Fees,-2266.16,Housing
+2025-03-03,YouTube Premium,-40.81,Entertainment
+2025-03-03,Student Loan Payment,-4035.83,Education
+2025-03-03,Eye Doctor,-34.86,Health
+2025-03-03,Local Cafe,-67.5,Dining
+2025-03-04,YouTube Premium,-52.61,Entertainment
+2025-03-04,Side Hustle Income,2513.71,Income
+2025-03-04,Lab Tests,-141.49,Health
+2025-03-05,Marriott Hotel,-812.54,Travel
+2025-03-05,Dominos Pizza,-35.83,Dining
+2025-03-05,Marriott Hotel,-1110.06,Travel
+2025-03-05,University Tuition,-1735.87,Education
+2025-03-05,IKEA,-42.98,Shopping
+2025-03-05,Electric Company,-120.0,Utilities
+2025-03-05,HBO Max,-50.05,Entertainment
+2025-03-05,Regal Cinemas,-12.16,Entertainment
+2025-03-06,Student Loan Payment,-958.31,Education
+2025-03-06,Gym Membership,-12.24,Entertainment
+2025-03-06,Freelance Payment,2689.71,Income
+2025-03-06,Albertsons,-77.89,Groceries
+2025-03-06,Textbook Store,-2657.17,Education
+2025-03-06,CVS Pharmacy,-189.01,Health
+2025-03-07,Udemy,-720.24,Education
+2025-03-07,Chevron,-58.84,Transportation
+2025-03-07,Google One Storage,-52.99,Subscriptions
+2025-03-07,Cashback Reward,4981.28,Income
+2025-03-07,Rent Payment,-1123.52,Housing
+2025-03-08,T-Mobile,-241.48,Utilities
+2025-03-08,Expedia,-1043.57,Travel
+2025-03-08,Wall Street Journal,-46.32,Subscriptions
+2025-03-08,Home Depot,-49.89,Shopping
+2025-03-08,Coursera,-3615.36,Education
+2025-03-08,Medical Clinic,-114.37,Health
+2025-03-09,Natural Gas Co,-125.12,Utilities
+2025-03-09,McDonalds,-53.43,Dining
+2025-03-10,Apartment Maintenance,-1909.45,Housing
+2025-03-10,Office Depot,-123.72,Shopping
+2025-03-10,Fitness Center,-52.8,Health
+2025-03-10,Comcast Internet,-89.99,Utilities
+2025-03-10,Cashback Reward,5359.33,Income
+2025-03-11,Steam,-23.72,Entertainment
+2025-03-11,Freelance Payment,4083.93,Income
+2025-03-12,Amazon Prime,-14.99,Subscriptions
+2025-03-12,Google One Storage,-51.17,Subscriptions
+2025-03-13,Food Lion,-37.24,Groceries
+2025-03-13,Property Tax,-2270.41,Housing
+2025-03-13,Costco,-63.65,Groceries
+2025-03-13,Kindle Unlimited,-78.66,Subscriptions
+2025-03-13,Shell Gas Station,-60.55,Transportation
+2025-03-13,Spectrum Internet,-129.21,Utilities
+2025-03-13,Comcast Internet,-160.29,Utilities
+2025-03-14,Textbook Store,-3761.92,Education
+2025-03-14,Tax Refund,5010.51,Income
+2025-03-14,Eye Doctor,-68.49,Health
+2025-03-14,The Cheesecake Factory,-38.25,Dining
+2025-03-14,Coursera,-445.67,Education
+2025-03-14,Home Insurance,-1034.36,Housing
+2025-03-15,Verizon Wireless,-75.0,Utilities
+2025-03-15,Local Cafe,-94.69,Dining
+2025-03-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-03-16,Gym Membership,-10.99,Entertainment
+2025-03-17,BP Gas,-74.43,Transportation
+2025-03-17,Property Tax,-1982.77,Housing
+2025-03-17,Disney Plus,-24.42,Entertainment
+2025-03-17,Chevron,-28.18,Transportation
+2025-03-17,Local Cafe,-84.42,Dining
+2025-03-17,Natural Gas Co,-238.94,Utilities
+2025-03-19,Lyft,-5.5,Transportation
+2025-03-19,New York Times,-38.54,Subscriptions
+2025-03-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-03-20,AT&T,-54.0,Utilities
+2025-03-21,Tax Refund,1201.78,Income
+2025-03-22,Home Depot,-291.04,Shopping
+2025-03-22,Bank Interest,2853.36,Income
+2025-03-22,Coursera,-4287.35,Education
+2025-03-22,CVS Pharmacy,-199.0,Health
+2025-03-22,Dropbox Pro,-8.15,Subscriptions
+2025-03-23,Dividend Payment,5283.29,Income
+2025-03-23,Cashback Reward,1838.03,Income
+2025-03-23,Albertsons,-101.84,Groceries
+2025-03-23,Red Lobster,-60.71,Dining
+2025-03-24,Tax Refund,2355.19,Income
+2025-03-24,Lowes,-147.12,Shopping
+2025-03-24,Car Wash,-27.25,Transportation
+2025-03-24,AT&T,-216.78,Utilities
+2025-03-25,Chick-fil-A,-15.32,Dining
+2025-03-25,Nintendo eShop,-12.55,Entertainment
+2025-03-25,Rent Payment,-2030.27,Housing
+2025-03-25,Fitness Center,-152.13,Health
+2025-03-26,Gym Membership,-50.06,Entertainment
+2025-03-26,Staples,-20.33,Shopping
+2025-03-26,Expedia,-523.52,Travel
+2025-03-26,United Airlines,-1464.99,Travel
+2025-03-27,Rite Aid,-43.91,Health
+2025-03-27,Gift Money,2070.42,Income
+2025-03-27,Trash Collection Service,-178.07,Utilities
+2025-03-27,Freelance Payment,4829.38,Income
+2025-03-27,Staples,-64.11,Shopping
+2025-03-27,Chick-fil-A,-57.04,Dining
+2025-03-27,HOA Fees,-1599.31,Housing
+2025-03-28,Spectrum Internet,-204.12,Utilities
+2025-03-28,Udemy,-1793.33,Education
+2025-03-28,Spotify Premium,-35.09,Entertainment
+2025-03-29,Walgreens,-134.19,Health
+2025-03-30,Macys,-250.24,Shopping
+2025-03-30,Side Hustle Income,4805.58,Income
+2025-03-30,Google One Storage,-6.08,Subscriptions
+2025-03-31,Walmart Supercenter,-121.66,Groceries
+2025-03-31,Comcast Internet,-167.7,Utilities
+2025-03-31,Cashback Reward,722.56,Income
+2025-03-31,Mortgage Payment,-1996.28,Housing
+2025-04-01,Eye Doctor,-76.63,Health
+2025-04-01,Rent Payment,-1200.0,Housing
+2025-04-01,Dominos Pizza,-47.16,Dining
+2025-04-01,Rite Aid,-40.3,Health
+2025-04-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-04-01,Netflix,-15.99,Entertainment
+2025-04-01,Payroll Deposit - Company Inc,542.72,Income
+2025-04-01,Gym Membership,-45.0,Entertainment
+2025-04-01,Spotify Premium,-9.99,Entertainment
+2025-04-01,Netflix,-22.41,Entertainment
+2025-04-01,Delta Airlines,-1016.69,Travel
+2025-04-02,Trader Joes,-30.71,Groceries
+2025-04-02,Google One Storage,-72.43,Subscriptions
+2025-04-02,Freelance Payment,1279.78,Income
+2025-04-02,Target,-180.56,Shopping
+2025-04-02,Apple Music,-54.66,Entertainment
+2025-04-03,PlayStation Store,-39.03,Entertainment
+2025-04-03,Payroll Deposit - Company Inc,5048.24,Income
+2025-04-03,Natural Gas Co,-180.36,Utilities
+2025-04-03,Online Course,-4256.21,Education
+2025-04-03,Udemy,-3612.0,Education
+2025-04-04,Cashback Reward,2532.55,Income
+2025-04-04,Macys,-42.08,Shopping
+2025-04-05,Thai Restaurant,-20.61,Dining
+2025-04-05,Verizon Wireless,-187.65,Utilities
+2025-04-05,Parking Garage,-6.95,Transportation
+2025-04-05,Netflix,-47.34,Entertainment
+2025-04-05,Starbucks,-11.68,Dining
+2025-04-05,Electric Company,-120.0,Utilities
+2025-04-06,Trash Collection Service,-183.77,Utilities
+2025-04-07,Bank Interest,3343.01,Income
+2025-04-07,Office Depot,-101.61,Shopping
+2025-04-07,Xbox Live,-44.59,Entertainment
+2025-04-07,The Cheesecake Factory,-9.32,Dining
+2025-04-08,Public Transit,-59.9,Transportation
+2025-04-08,United Airlines,-645.98,Travel
+2025-04-08,Regal Cinemas,-25.97,Entertainment
+2025-04-09,Marriott Hotel,-1356.54,Travel
+2025-04-09,Medical Clinic,-56.23,Health
+2025-04-09,Google One Storage,-11.87,Subscriptions
+2025-04-10,Dentist Office,-56.72,Health
+2025-04-10,Delta Airlines,-326.86,Travel
+2025-04-10,Wegmans,-47.95,Groceries
+2025-04-10,Gym Membership,-28.06,Entertainment
+2025-04-10,Chipotle Mexican Grill,-63.74,Dining
+2025-04-10,Comcast Internet,-89.99,Utilities
+2025-04-10,Kindle Unlimited,-52.96,Subscriptions
+2025-04-11,HBO Max,-29.08,Entertainment
+2025-04-11,Side Hustle Income,3885.33,Income
+2025-04-12,T-Mobile,-185.78,Utilities
+2025-04-12,Rite Aid,-53.84,Health
+2025-04-12,Olive Garden,-23.37,Dining
+2025-04-12,Amazon Prime,-14.99,Subscriptions
+2025-04-12,Electric Company,-243.91,Utilities
+2025-04-12,Wall Street Journal,-67.25,Subscriptions
+2025-04-13,IKEA,-313.17,Shopping
+2025-04-13,Dentist Office,-116.39,Health
+2025-04-13,Starbucks,-12.73,Dining
+2025-04-13,HOA Fees,-1403.76,Housing
+2025-04-14,AT&T,-107.88,Utilities
+2025-04-14,Uber,-61.65,Transportation
+2025-04-14,Online Course,-3174.26,Education
+2025-04-15,Target,-162.83,Groceries
+2025-04-15,Verizon Wireless,-75.0,Utilities
+2025-04-15,HOA Fees,-1023.56,Housing
+2025-04-15,Cashback Reward,5586.71,Income
+2025-04-15,Parking Garage,-12.88,Transportation
+2025-04-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-04-15,Physical Therapy,-84.84,Health
+2025-04-15,Nordstrom,-21.3,Shopping
+2025-04-16,Side Hustle Income,1575.61,Income
+2025-04-16,Thai Restaurant,-11.25,Dining
+2025-04-16,Steam,-27.68,Entertainment
+2025-04-16,Audible,-69.92,Subscriptions
+2025-04-16,HBO Max,-50.8,Entertainment
+2025-04-16,Home Depot,-55.72,Shopping
+2025-04-17,Buffalo Wild Wings,-21.52,Dining
+2025-04-19,Natural Gas Co,-243.91,Utilities
+2025-04-19,Metro Card,-42.81,Transportation
+2025-04-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-04-20,Adobe Creative Cloud,-40.06,Subscriptions
+2025-04-20,McDonalds,-66.35,Dining
+2025-04-20,Verizon Wireless,-203.49,Utilities
+2025-04-21,Exxon Mobil,-26.18,Transportation
+2025-04-22,PlayStation Store,-19.62,Entertainment
+2025-04-22,Car Wash,-39.41,Transportation
+2025-04-22,Google One Storage,-42.53,Subscriptions
+2025-04-22,Pizza Hut,-33.4,Dining
+2025-04-22,Medical Clinic,-170.02,Health
+2025-04-23,PlayStation Store,-14.87,Entertainment
+2025-04-23,Yoga Studio,-97.58,Health
+2025-04-24,American Airlines,-870.15,Travel
+2025-04-24,Wall Street Journal,-13.69,Subscriptions
+2025-04-24,Spotify Premium,-36.56,Entertainment
+2025-04-24,Home Insurance,-1475.68,Housing
+2025-04-24,Nordstrom,-156.07,Shopping
+2025-04-25,Pizza Hut,-22.38,Dining
+2025-04-25,Mortgage Payment,-2499.26,Housing
+2025-04-25,Apple Music,-21.07,Entertainment
+2025-04-26,Eye Doctor,-74.89,Health
+2025-04-26,Parking Garage,-15.84,Transportation
+2025-04-26,Jiffy Lube,-68.29,Transportation
+2025-04-26,Wall Street Journal,-17.75,Subscriptions
+2025-04-26,Airport Parking,-42.86,Transportation
+2025-04-26,Medical Clinic,-51.59,Health
+2025-04-27,Home Depot,-31.52,Shopping
+2025-04-27,Shell Gas Station,-37.95,Transportation
+2025-04-28,Coursera,-3666.47,Education
+2025-04-28,Airbnb,-1322.34,Travel
+2025-04-28,Fitness Center,-40.7,Health
+2025-04-28,McDonalds,-61.15,Dining
+2025-04-28,Amazon Prime Video,-51.22,Entertainment
+2025-04-29,Delta Airlines,-229.46,Travel
+2025-04-29,Old Navy,-248.88,Shopping
+2025-04-29,Textbook Store,-507.2,Education
+2025-04-29,United Airlines,-432.19,Travel
+2025-04-29,Walgreens,-44.6,Health
+2025-04-29,HOA Fees,-2094.87,Housing
+2025-04-30,Thai Restaurant,-76.21,Dining
+2025-04-30,Adobe Creative Cloud,-52.74,Subscriptions
+2025-04-30,Prescription Refill,-49.77,Health
+2025-04-30,Dropbox Pro,-71.39,Subscriptions
+2025-04-30,Nike,-71.83,Shopping
+2025-04-30,Car Wash,-63.0,Transportation
+2025-05-01,Rent Payment,-1200.0,Housing
+2025-05-01,Gym Membership,-45.0,Entertainment
+2025-05-01,Spotify Premium,-9.99,Entertainment
+2025-05-01,Uber,-72.33,Transportation
+2025-05-01,Netflix,-15.99,Entertainment
+2025-05-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-05-01,Dividend Payment,4570.95,Income
+2025-05-02,Macys,-188.89,Shopping
+2025-05-02,Audible,-27.22,Subscriptions
+2025-05-03,Adobe Creative Cloud,-35.91,Subscriptions
+2025-05-03,Coursera,-806.35,Education
+2025-05-03,Fitness Center,-26.13,Health
+2025-05-03,New York Times,-14.17,Subscriptions
+2025-05-03,Marriott Hotel,-285.53,Travel
+2025-05-03,Amazon.com,-134.5,Shopping
+2025-05-04,Marriott Hotel,-865.54,Travel
+2025-05-04,Prescription Refill,-101.13,Health
+2025-05-04,Starbucks,-18.37,Dining
+2025-05-04,Eye Doctor,-92.64,Health
+2025-05-05,Exxon Mobil,-14.0,Transportation
+2025-05-05,Adidas,-228.17,Shopping
+2025-05-05,Lab Tests,-67.15,Health
+2025-05-05,Auto Repair Shop,-52.58,Transportation
+2025-05-05,Coursera,-4371.47,Education
+2025-05-05,Electric Company,-120.0,Utilities
+2025-05-05,Airbnb,-437.01,Travel
+2025-05-06,Chipotle Mexican Grill,-37.29,Dining
+2025-05-07,Mortgage Payment,-1675.18,Housing
+2025-05-07,HOA Fees,-1384.94,Housing
+2025-05-08,Kindle Unlimited,-50.9,Subscriptions
+2025-05-08,Local Cafe,-14.57,Dining
+2025-05-08,Dentist Office,-175.01,Health
+2025-05-08,Student Loan Payment,-966.76,Education
+2025-05-08,Wall Street Journal,-59.2,Subscriptions
+2025-05-09,University Tuition,-2660.83,Education
+2025-05-09,Student Loan Payment,-3861.27,Education
+2025-05-09,Disney Plus,-10.47,Entertainment
+2025-05-09,Home Insurance,-1263.96,Housing
+2025-05-10,Bank Interest,1394.81,Income
+2025-05-10,Comcast Internet,-89.99,Utilities
+2025-05-10,Best Buy,-245.7,Shopping
+2025-05-10,Wegmans,-154.75,Groceries
+2025-05-10,Tax Refund,4131.08,Income
+2025-05-11,Textbook Store,-1368.74,Education
+2025-05-11,University Tuition,-1457.92,Education
+2025-05-11,CVS Pharmacy,-74.78,Health
+2025-05-11,Coursera,-2973.29,Education
+2025-05-12,Dividend Payment,1846.24,Income
+2025-05-12,Amazon Prime,-14.99,Subscriptions
+2025-05-12,Nintendo eShop,-43.08,Entertainment
+2025-05-12,Chevron,-8.64,Transportation
+2025-05-13,Freelance Payment,2991.01,Income
+2025-05-13,Metro Card,-28.47,Transportation
+2025-05-13,Public Transit,-48.37,Transportation
+2025-05-13,Google One Storage,-62.56,Subscriptions
+2025-05-14,Publix,-74.06,Groceries
+2025-05-14,Trader Joes,-130.62,Groceries
+2025-05-14,Walgreens,-139.04,Health
+2025-05-14,Side Hustle Income,4161.03,Income
+2025-05-14,Mortgage Payment,-969.98,Housing
+2025-05-14,Southwest Airlines,-1367.72,Travel
+2025-05-15,Expedia,-1261.05,Travel
+2025-05-15,Gift Money,4162.63,Income
+2025-05-15,Whole Foods Market,-162.17,Groceries
+2025-05-15,Cashback Reward,5588.52,Income
+2025-05-15,Metro Card,-47.74,Transportation
+2025-05-15,Grubhub,-63.78,Dining
+2025-05-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-05-15,Rent Payment,-1782.64,Housing
+2025-05-15,Verizon Wireless,-75.0,Utilities
+2025-05-15,HOA Fees,-1225.52,Housing
+2025-05-15,Local Cafe,-93.06,Dining
+2025-05-16,Airport Parking,-57.21,Transportation
+2025-05-16,HOA Fees,-1203.72,Housing
+2025-05-16,Lab Tests,-33.03,Health
+2025-05-16,Dividend Payment,1361.14,Income
+2025-05-17,Auto Repair Shop,-32.2,Transportation
+2025-05-17,Trader Joes,-106.76,Groceries
+2025-05-18,Lab Tests,-70.2,Health
+2025-05-18,University Tuition,-4684.33,Education
+2025-05-18,City Water Department,-58.2,Utilities
+2025-05-18,Prescription Refill,-186.72,Health
+2025-05-19,Uber Eats,-19.38,Dining
+2025-05-19,Comcast Internet,-152.55,Utilities
+2025-05-19,Trash Collection Service,-127.18,Utilities
+2025-05-20,Google One Storage,-64.13,Subscriptions
+2025-05-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-05-20,Airbnb,-1361.41,Travel
+2025-05-20,AT&T,-79.7,Utilities
+2025-05-21,Tax Refund,2019.49,Income
+2025-05-21,H&M,-250.49,Shopping
+2025-05-21,Lyft,-20.87,Transportation
+2025-05-21,Publix,-179.4,Groceries
+2025-05-22,CVS Pharmacy,-89.22,Health
+2025-05-22,Mortgage Payment,-1169.58,Housing
+2025-05-22,Expedia,-846.47,Travel
+2025-05-22,Staples,-56.72,Shopping
+2025-05-23,Apartment Maintenance,-2114.53,Housing
+2025-05-23,Verizon Wireless,-73.35,Utilities
+2025-05-23,Airbnb,-941.51,Travel
+2025-05-23,Rite Aid,-20.95,Health
+2025-05-23,Sushi Bar,-24.12,Dining
+2025-05-23,City Water Department,-165.72,Utilities
+2025-05-23,Publix,-169.27,Groceries
+2025-05-23,Walmart Supercenter,-71.78,Groceries
+2025-05-23,Online Course,-1256.61,Education
+2025-05-24,Home Depot,-223.98,Shopping
+2025-05-24,H&M,-64.08,Shopping
+2025-05-24,American Airlines,-800.3,Travel
+2025-05-25,Physical Therapy,-23.55,Health
+2025-05-25,Airport Parking,-48.7,Transportation
+2025-05-25,Dividend Payment,5651.93,Income
+2025-05-25,Coursera,-930.5,Education
+2025-05-25,Car Wash,-73.24,Transportation
+2025-05-25,Hertz Rental Car,-1179.98,Travel
+2025-05-25,Southwest Airlines,-1000.7,Travel
+2025-05-25,Xbox Live,-51.4,Entertainment
+2025-05-25,Office Depot,-91.0,Shopping
+2025-05-26,Adobe Creative Cloud,-25.49,Subscriptions
+2025-05-26,Electric Company,-239.7,Utilities
+2025-05-26,Publix,-123.5,Groceries
+2025-05-26,Gift Money,4662.05,Income
+2025-05-27,T-Mobile,-93.43,Utilities
+2025-05-28,Comcast Internet,-241.64,Utilities
+2025-05-28,McDonalds,-48.28,Dining
+2025-05-28,Southwest Airlines,-960.01,Travel
+2025-05-29,Aldi,-131.57,Groceries
+2025-05-29,T-Mobile,-51.22,Utilities
+2025-05-29,Apple Store,-205.72,Shopping
+2025-05-29,Comcast Internet,-154.59,Utilities
+2025-05-29,City Water Department,-160.01,Utilities
+2025-05-30,Google One Storage,-32.77,Subscriptions
+2025-05-30,Rent Payment,-988.4,Housing
+2025-05-30,YouTube Premium,-23.51,Entertainment
+2025-05-30,The Cheesecake Factory,-48.76,Dining
+2025-05-31,Prescription Refill,-97.89,Health
+2025-05-31,Online Course,-293.33,Education
+2025-05-31,Car Wash,-55.7,Transportation
+2025-05-31,Udemy,-1414.6,Education
+2025-05-31,Parking Garage,-47.23,Transportation
+2025-05-31,Aldi,-167.84,Groceries
+2025-05-31,Online Course,-2572.74,Education
+2025-06-01,Side Hustle Income,2053.16,Income
+2025-06-01,Spotify Premium,-9.99,Entertainment
+2025-06-01,University Tuition,-283.98,Education
+2025-06-01,Rent Payment,-1200.0,Housing
+2025-06-01,Gym Membership,-45.0,Entertainment
+2025-06-01,Eye Doctor,-92.65,Health
+2025-06-01,Thai Restaurant,-80.7,Dining
+2025-06-01,Netflix,-15.99,Entertainment
+2025-06-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-06-02,Nintendo eShop,-34.33,Entertainment
+2025-06-02,Panera Bread,-88.88,Dining
+2025-06-02,Zara,-319.94,Shopping
+2025-06-03,CVS Pharmacy,-185.56,Health
+2025-06-03,New York Times,-14.47,Subscriptions
+2025-06-03,Rent Payment,-1770.39,Housing
+2025-06-03,Kindle Unlimited,-69.45,Subscriptions
+2025-06-03,Fitness Center,-111.8,Health
+2025-06-03,University Tuition,-4632.17,Education
+2025-06-03,Comcast Internet,-96.92,Utilities
+2025-06-03,Car Wash,-18.08,Transportation
+2025-06-03,Trader Joes,-109.62,Groceries
+2025-06-04,Electric Company,-74.57,Utilities
+2025-06-04,Audible,-7.62,Subscriptions
+2025-06-05,Shell Gas Station,-23.96,Transportation
+2025-06-05,Nintendo eShop,-48.46,Entertainment
+2025-06-05,Gap,-216.44,Shopping
+2025-06-05,Amazon.com,-46.39,Shopping
+2025-06-05,Electric Company,-120.0,Utilities
+2025-06-05,Payroll Deposit - Company Inc,4338.22,Income
+2025-06-06,Jiffy Lube,-26.37,Transportation
+2025-06-06,Coursera,-4756.88,Education
+2025-06-06,United Airlines,-1388.89,Travel
+2025-06-07,Medical Clinic,-113.17,Health
+2025-06-07,Verizon Wireless,-195.03,Utilities
+2025-06-07,Natural Gas Co,-211.62,Utilities
+2025-06-08,Costco,-28.85,Groceries
+2025-06-08,Panera Bread,-27.75,Dining
+2025-06-08,Hertz Rental Car,-1301.99,Travel
+2025-06-08,Gift Money,2507.75,Income
+2025-06-08,Kroger,-17.84,Groceries
+2025-06-09,Apple Music,-43.67,Entertainment
+2025-06-09,Nike,-270.8,Shopping
+2025-06-09,Food Lion,-115.23,Groceries
+2025-06-09,Side Hustle Income,2373.52,Income
+2025-06-09,Kindle Unlimited,-11.05,Subscriptions
+2025-06-09,Microsoft 365,-24.23,Subscriptions
+2025-06-10,Adobe Creative Cloud,-28.28,Subscriptions
+2025-06-10,Electric Company,-55.41,Utilities
+2025-06-10,Lowes,-197.27,Shopping
+2025-06-10,Bank Interest,4791.04,Income
+2025-06-10,Lab Tests,-134.01,Health
+2025-06-10,University Tuition,-3757.61,Education
+2025-06-10,Comcast Internet,-89.99,Utilities
+2025-06-10,Electric Company,-140.74,Utilities
+2025-06-10,Home Insurance,-1312.67,Housing
+2025-06-10,Google One Storage,-68.76,Subscriptions
+2025-06-10,Enterprise Rent-A-Car,-700.99,Travel
+2025-06-10,Hulu,-41.08,Entertainment
+2025-06-11,Metro Card,-24.02,Transportation
+2025-06-11,Delta Airlines,-813.91,Travel
+2025-06-11,Public Transit,-35.45,Transportation
+2025-06-12,Exxon Mobil,-25.98,Transportation
+2025-06-12,BP Gas,-50.58,Transportation
+2025-06-12,Spectrum Internet,-58.09,Utilities
+2025-06-12,Xbox Live,-14.56,Entertainment
+2025-06-12,Lab Tests,-24.98,Health
+2025-06-12,Home Insurance,-2287.36,Housing
+2025-06-12,Amazon Prime,-14.99,Subscriptions
+2025-06-12,Payroll Deposit - Company Inc,4374.88,Income
+2025-06-12,Tax Refund,4379.48,Income
+2025-06-13,Home Depot,-246.77,Shopping
+2025-06-13,Parking Garage,-57.09,Transportation
+2025-06-13,Nordstrom,-36.79,Shopping
+2025-06-13,Fitness Center,-172.2,Health
+2025-06-13,Rent Payment,-2450.84,Housing
+2025-06-14,Albertsons,-149.23,Groceries
+2025-06-14,Rent Payment,-1104.32,Housing
+2025-06-14,Starbucks,-79.93,Dining
+2025-06-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-06-15,Verizon Wireless,-75.0,Utilities
+2025-06-15,Google One Storage,-35.96,Subscriptions
+2025-06-15,Online Course,-4671.94,Education
+2025-06-16,YouTube Premium,-52.39,Entertainment
+2025-06-16,Sushi Bar,-34.28,Dining
+2025-06-16,Audible,-50.75,Subscriptions
+2025-06-16,Google One Storage,-6.39,Subscriptions
+2025-06-17,Natural Gas Co,-201.31,Utilities
+2025-06-17,Udemy,-4209.33,Education
+2025-06-18,Disney Plus,-36.04,Entertainment
+2025-06-18,Coursera,-4844.04,Education
+2025-06-18,Lab Tests,-83.75,Health
+2025-06-18,HOA Fees,-1043.08,Housing
+2025-06-19,Metro Card,-55.85,Transportation
+2025-06-19,Cashback Reward,4134.87,Income
+2025-06-19,YouTube Premium,-17.19,Entertainment
+2025-06-20,IKEA,-337.41,Shopping
+2025-06-20,Dentist Office,-23.32,Health
+2025-06-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-06-20,Lowes,-86.95,Shopping
+2025-06-20,Spectrum Internet,-89.38,Utilities
+2025-06-20,Comcast Internet,-42.62,Utilities
+2025-06-21,Electric Company,-187.01,Utilities
+2025-06-21,Wall Street Journal,-59.99,Subscriptions
+2025-06-21,Airport Parking,-52.41,Transportation
+2025-06-22,CVS Pharmacy,-180.04,Health
+2025-06-22,Whole Foods Market,-105.37,Groceries
+2025-06-22,Netflix,-32.77,Entertainment
+2025-06-22,BP Gas,-64.11,Transportation
+2025-06-22,School Supplies,-1258.08,Education
+2025-06-22,Dentist Office,-55.51,Health
+2025-06-22,Uber Eats,-8.15,Dining
+2025-06-23,Subway,-82.63,Dining
+2025-06-23,Adobe Creative Cloud,-25.65,Subscriptions
+2025-06-23,Nintendo eShop,-28.65,Entertainment
+2025-06-23,Target,-171.86,Groceries
+2025-06-23,CVS Pharmacy,-103.72,Health
+2025-06-24,Best Buy,-196.99,Shopping
+2025-06-24,Mortgage Payment,-1978.08,Housing
+2025-06-24,Comcast Internet,-96.8,Utilities
+2025-06-24,Udemy,-1792.37,Education
+2025-06-24,Uber Eats,-23.77,Dining
+2025-06-24,United Airlines,-935.59,Travel
+2025-06-24,Dominos Pizza,-62.69,Dining
+2025-06-24,Student Loan Payment,-4937.0,Education
+2025-06-25,T-Mobile,-170.68,Utilities
+2025-06-25,Mortgage Payment,-1766.48,Housing
+2025-06-25,Tax Refund,2064.98,Income
+2025-06-25,Netflix,-13.07,Entertainment
+2025-06-25,Cashback Reward,1630.82,Income
+2025-06-26,Udemy,-1093.74,Education
+2025-06-26,Coursera,-173.06,Education
+2025-06-26,Online Course,-1053.17,Education
+2025-06-26,Rent Payment,-2319.58,Housing
+2025-06-26,Payroll Deposit - Company Inc,2152.56,Income
+2025-06-27,American Airlines,-733.65,Travel
+2025-06-27,United Airlines,-338.47,Travel
+2025-06-27,Electric Company,-200.86,Utilities
+2025-06-27,Best Buy,-147.65,Shopping
+2025-06-28,Comcast Internet,-141.06,Utilities
+2025-06-28,American Airlines,-1084.1,Travel
+2025-06-28,Natural Gas Co,-215.41,Utilities
+2025-06-28,University Tuition,-2153.86,Education
+2025-06-28,Electric Company,-85.05,Utilities
+2025-06-29,Nike,-101.27,Shopping
+2025-06-29,Walmart Supercenter,-177.29,Groceries
+2025-06-29,Stop & Shop,-109.77,Groceries
+2025-06-29,Airbnb,-686.56,Travel
+2025-06-29,HOA Fees,-2292.53,Housing
+2025-06-30,Gap,-245.61,Shopping
+2025-06-30,HOA Fees,-1926.72,Housing
+2025-06-30,Red Lobster,-62.66,Dining
+2025-06-30,Olive Garden,-38.28,Dining
+2025-06-30,Airbnb,-1367.52,Travel
+2025-06-30,Electric Company,-59.31,Utilities
+2025-07-01,Rent Payment,-1200.0,Housing
+2025-07-01,Spotify Premium,-9.99,Entertainment
+2025-07-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-07-01,HOA Fees,-2453.37,Housing
+2025-07-01,Netflix,-15.99,Entertainment
+2025-07-01,Gym Membership,-45.0,Entertainment
+2025-07-02,Publix,-25.05,Groceries
+2025-07-02,Cashback Reward,5744.88,Income
+2025-07-02,LinkedIn Premium,-20.18,Subscriptions
+2025-07-02,Verizon Wireless,-190.06,Utilities
+2025-07-03,Auto Repair Shop,-16.97,Transportation
+2025-07-03,Hulu,-57.73,Entertainment
+2025-07-03,Pizza Hut,-51.79,Dining
+2025-07-03,Costco,-55.01,Groceries
+2025-07-03,Red Lobster,-21.9,Dining
+2025-07-03,AT&T,-174.93,Utilities
+2025-07-03,United Airlines,-142.22,Travel
+2025-07-03,Comcast Internet,-228.04,Utilities
+2025-07-03,Auto Repair Shop,-33.25,Transportation
+2025-07-04,Gym Membership,-26.68,Entertainment
+2025-07-04,American Airlines,-240.15,Travel
+2025-07-04,Target,-55.34,Groceries
+2025-07-04,Cashback Reward,5945.52,Income
+2025-07-05,Coursera,-781.1,Education
+2025-07-05,YouTube Premium,-27.82,Entertainment
+2025-07-05,Spectrum Internet,-69.6,Utilities
+2025-07-05,Udemy,-4911.11,Education
+2025-07-05,Electric Company,-120.0,Utilities
+2025-07-05,Hertz Rental Car,-1496.67,Travel
+2025-07-05,Audible,-34.09,Subscriptions
+2025-07-05,Apple Store,-290.76,Shopping
+2025-07-05,Hulu,-48.17,Entertainment
+2025-07-06,Bank Interest,2762.23,Income
+2025-07-06,Sushi Bar,-13.67,Dining
+2025-07-06,Yoga Studio,-96.42,Health
+2025-07-06,HBO Max,-26.03,Entertainment
+2025-07-07,Wall Street Journal,-62.79,Subscriptions
+2025-07-07,Walmart Supercenter,-22.7,Groceries
+2025-07-07,Staples,-61.59,Shopping
+2025-07-07,HEB,-50.7,Groceries
+2025-07-08,Rite Aid,-124.01,Health
+2025-07-08,Spectrum Internet,-114.95,Utilities
+2025-07-08,Costco,-157.62,Groceries
+2025-07-08,Olive Garden,-73.25,Dining
+2025-07-08,DoorDash,-35.88,Dining
+2025-07-08,Publix,-44.65,Groceries
+2025-07-09,Southwest Airlines,-192.68,Travel
+2025-07-09,Fitness Center,-114.03,Health
+2025-07-09,Hertz Rental Car,-345.11,Travel
+2025-07-09,HBO Max,-38.69,Entertainment
+2025-07-10,Comcast Internet,-89.99,Utilities
+2025-07-10,Google One Storage,-7.96,Subscriptions
+2025-07-10,Medical Clinic,-183.37,Health
+2025-07-10,Costco,-145.18,Groceries
+2025-07-11,New York Times,-61.97,Subscriptions
+2025-07-11,Pizza Hut,-69.75,Dining
+2025-07-11,Auto Repair Shop,-16.55,Transportation
+2025-07-11,Student Loan Payment,-184.47,Education
+2025-07-12,Rent Payment,-1928.96,Housing
+2025-07-12,Amazon Prime,-14.99,Subscriptions
+2025-07-12,Xbox Live,-19.67,Entertainment
+2025-07-12,T-Mobile,-106.19,Utilities
+2025-07-13,Marriott Hotel,-1017.32,Travel
+2025-07-13,Udemy,-4187.29,Education
+2025-07-13,Auto Repair Shop,-45.5,Transportation
+2025-07-14,Comcast Internet,-43.45,Utilities
+2025-07-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-07-15,Verizon Wireless,-75.0,Utilities
+2025-07-15,HOA Fees,-2148.54,Housing
+2025-07-16,Walmart Supercenter,-130.61,Groceries
+2025-07-16,Parking Garage,-70.96,Transportation
+2025-07-16,Prescription Refill,-148.37,Health
+2025-07-16,T-Mobile,-100.42,Utilities
+2025-07-17,American Airlines,-646.15,Travel
+2025-07-18,Cashback Reward,5775.02,Income
+2025-07-18,Apartment Maintenance,-821.34,Housing
+2025-07-18,Dropbox Pro,-16.54,Subscriptions
+2025-07-18,Car Wash,-47.19,Transportation
+2025-07-19,Safeway,-154.21,Groceries
+2025-07-19,Rite Aid,-155.06,Health
+2025-07-19,Office Depot,-323.22,Shopping
+2025-07-19,Subway,-69.91,Dining
+2025-07-19,Albertsons,-104.75,Groceries
+2025-07-19,Dividend Payment,2672.79,Income
+2025-07-20,Chevron,-18.17,Transportation
+2025-07-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-07-20,New York Times,-79.03,Subscriptions
+2025-07-20,Disney Plus,-36.27,Entertainment
+2025-07-21,Auto Repair Shop,-66.03,Transportation
+2025-07-21,Adobe Creative Cloud,-68.46,Subscriptions
+2025-07-21,PlayStation Store,-19.24,Entertainment
+2025-07-21,LinkedIn Premium,-45.41,Subscriptions
+2025-07-21,Whole Foods Market,-169.65,Groceries
+2025-07-21,Nordstrom,-186.97,Shopping
+2025-07-21,Natural Gas Co,-199.81,Utilities
+2025-07-22,Enterprise Rent-A-Car,-945.0,Travel
+2025-07-22,Medical Clinic,-67.15,Health
+2025-07-22,American Airlines,-1414.16,Travel
+2025-07-23,Wegmans,-164.89,Groceries
+2025-07-23,Airbnb,-717.98,Travel
+2025-07-23,Coursera,-4248.4,Education
+2025-07-23,Gap,-63.01,Shopping
+2025-07-23,Car Wash,-33.63,Transportation
+2025-07-24,Walgreens,-141.78,Health
+2025-07-24,Comcast Internet,-100.34,Utilities
+2025-07-25,Chipotle Mexican Grill,-94.13,Dining
+2025-07-25,American Airlines,-985.85,Travel
+2025-07-25,Stop & Shop,-71.42,Groceries
+2025-07-25,Wegmans,-122.6,Groceries
+2025-07-25,Yoga Studio,-115.35,Health
+2025-07-26,Bank Interest,3538.16,Income
+2025-07-26,YouTube Premium,-9.18,Entertainment
+2025-07-26,University Tuition,-1064.69,Education
+2025-07-26,Jiffy Lube,-43.73,Transportation
+2025-07-27,Rent Payment,-1651.74,Housing
+2025-07-27,Parking Garage,-34.49,Transportation
+2025-07-27,Property Tax,-1250.46,Housing
+2025-07-27,Home Insurance,-1682.39,Housing
+2025-07-28,Olive Garden,-89.77,Dining
+2025-07-28,Eye Doctor,-127.94,Health
+2025-07-28,Exxon Mobil,-8.77,Transportation
+2025-07-29,BP Gas,-23.11,Transportation
+2025-07-29,Home Insurance,-1039.95,Housing
+2025-07-30,Publix,-128.43,Groceries
+2025-07-31,Best Buy,-103.83,Shopping
+2025-07-31,HOA Fees,-2009.38,Housing
+2025-07-31,Xbox Live,-50.09,Entertainment
+2025-08-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-08-01,Rent Payment,-2301.44,Housing
+2025-08-01,Physical Therapy,-26.42,Health
+2025-08-01,Steam,-14.95,Entertainment
+2025-08-01,Bank Interest,4402.88,Income
+2025-08-01,Spotify Premium,-9.99,Entertainment
+2025-08-01,LinkedIn Premium,-71.62,Subscriptions
+2025-08-01,United Airlines,-579.4,Travel
+2025-08-01,Publix,-71.56,Groceries
+2025-08-01,Rent Payment,-1200.0,Housing
+2025-08-01,Gym Membership,-45.0,Entertainment
+2025-08-01,Netflix,-15.99,Entertainment
+2025-08-02,Home Insurance,-1776.35,Housing
+2025-08-02,Panera Bread,-28.81,Dining
+2025-08-02,Food Lion,-125.88,Groceries
+2025-08-02,Dividend Payment,5408.68,Income
+2025-08-03,Best Buy,-159.36,Shopping
+2025-08-03,Starbucks,-89.45,Dining
+2025-08-03,Adidas,-316.22,Shopping
+2025-08-03,Electric Company,-156.24,Utilities
+2025-08-03,New York Times,-70.28,Subscriptions
+2025-08-03,Xbox Live,-51.66,Entertainment
+2025-08-04,Staples,-199.58,Shopping
+2025-08-04,Walmart Supercenter,-159.92,Groceries
+2025-08-04,Steam,-53.11,Entertainment
+2025-08-04,Exxon Mobil,-41.77,Transportation
+2025-08-04,Gap,-319.79,Shopping
+2025-08-05,Online Course,-4011.84,Education
+2025-08-05,Mortgage Payment,-1329.14,Housing
+2025-08-05,IKEA,-75.56,Shopping
+2025-08-05,Electric Company,-120.0,Utilities
+2025-08-05,DoorDash,-86.46,Dining
+2025-08-06,University Tuition,-1830.62,Education
+2025-08-06,Udemy,-1057.42,Education
+2025-08-06,Marriott Hotel,-147.45,Travel
+2025-08-06,Spectrum Internet,-53.48,Utilities
+2025-08-07,Hilton Hotels,-1184.03,Travel
+2025-08-07,Trader Joes,-61.6,Groceries
+2025-08-07,Walmart Supercenter,-37.11,Groceries
+2025-08-07,Dentist Office,-162.8,Health
+2025-08-07,Trash Collection Service,-39.42,Utilities
+2025-08-08,Chevron,-67.9,Transportation
+2025-08-08,Property Tax,-1983.37,Housing
+2025-08-08,Amazon Prime Video,-36.16,Entertainment
+2025-08-08,CVS Pharmacy,-146.17,Health
+2025-08-09,AT&T,-48.93,Utilities
+2025-08-09,Gift Money,4391.47,Income
+2025-08-09,Lab Tests,-44.04,Health
+2025-08-09,Sams Club,-160.98,Groceries
+2025-08-09,HOA Fees,-1818.31,Housing
+2025-08-09,Trash Collection Service,-164.46,Utilities
+2025-08-09,AT&T,-122.76,Utilities
+2025-08-09,Lowes,-106.62,Shopping
+2025-08-10,Chipotle Mexican Grill,-11.85,Dining
+2025-08-10,Textbook Store,-4611.28,Education
+2025-08-10,Kindle Unlimited,-35.95,Subscriptions
+2025-08-10,Comcast Internet,-89.99,Utilities
+2025-08-10,Natural Gas Co,-206.92,Utilities
+2025-08-10,Uber,-74.89,Transportation
+2025-08-11,Coursera,-2398.95,Education
+2025-08-12,Dropbox Pro,-50.32,Subscriptions
+2025-08-12,Regal Cinemas,-19.12,Entertainment
+2025-08-12,Amazon Prime,-14.99,Subscriptions
+2025-08-12,LinkedIn Premium,-25.18,Subscriptions
+2025-08-13,Google One Storage,-55.95,Subscriptions
+2025-08-13,Adobe Creative Cloud,-6.92,Subscriptions
+2025-08-13,Wall Street Journal,-27.2,Subscriptions
+2025-08-14,eBay,-229.39,Shopping
+2025-08-14,Shell Gas Station,-33.36,Transportation
+2025-08-14,Rite Aid,-21.6,Health
+2025-08-14,New York Times,-66.89,Subscriptions
+2025-08-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-08-15,Best Buy,-323.32,Shopping
+2025-08-15,Verizon Wireless,-75.0,Utilities
+2025-08-15,Coursera,-1717.42,Education
+2025-08-15,Lyft,-40.14,Transportation
+2025-08-15,HBO Max,-56.73,Entertainment
+2025-08-16,Disney Plus,-16.4,Entertainment
+2025-08-16,Fitness Center,-151.88,Health
+2025-08-17,Gym Membership,-8.62,Entertainment
+2025-08-17,Gift Money,3666.43,Income
+2025-08-17,Student Loan Payment,-2426.69,Education
+2025-08-17,Kindle Unlimited,-16.64,Subscriptions
+2025-08-18,Wall Street Journal,-29.0,Subscriptions
+2025-08-18,Wall Street Journal,-58.05,Subscriptions
+2025-08-18,LinkedIn Premium,-30.14,Subscriptions
+2025-08-18,Panera Bread,-28.83,Dining
+2025-08-18,HOA Fees,-2006.07,Housing
+2025-08-18,Audible,-68.47,Subscriptions
+2025-08-18,Exxon Mobil,-37.84,Transportation
+2025-08-19,Target,-305.04,Shopping
+2025-08-19,Medical Clinic,-156.73,Health
+2025-08-19,Udemy,-1135.56,Education
+2025-08-20,Safeway,-139.96,Groceries
+2025-08-20,Kroger,-129.92,Groceries
+2025-08-20,Apartment Maintenance,-1727.55,Housing
+2025-08-20,Marriott Hotel,-675.5,Travel
+2025-08-20,Pizza Hut,-31.14,Dining
+2025-08-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-08-21,University Tuition,-236.59,Education
+2025-08-21,Hertz Rental Car,-1242.14,Travel
+2025-08-21,Microsoft 365,-9.72,Subscriptions
+2025-08-21,Comcast Internet,-122.38,Utilities
+2025-08-22,University Tuition,-1610.12,Education
+2025-08-22,Home Insurance,-1616.68,Housing
+2025-08-22,Target,-78.33,Groceries
+2025-08-22,Yoga Studio,-134.92,Health
+2025-08-23,Airbnb,-656.31,Travel
+2025-08-23,AT&T,-171.54,Utilities
+2025-08-24,H&M,-95.54,Shopping
+2025-08-24,Marriott Hotel,-304.85,Travel
+2025-08-24,Kindle Unlimited,-12.5,Subscriptions
+2025-08-24,University Tuition,-4418.93,Education
+2025-08-24,Uber,-66.81,Transportation
+2025-08-24,Mortgage Payment,-1919.53,Housing
+2025-08-24,Office Depot,-102.14,Shopping
+2025-08-25,Nike,-25.23,Shopping
+2025-08-25,Walmart Supercenter,-113.95,Groceries
+2025-08-25,Staples,-64.32,Shopping
+2025-08-25,Comcast Internet,-121.71,Utilities
+2025-08-25,Pizza Hut,-9.05,Dining
+2025-08-26,Costco,-57.2,Groceries
+2025-08-27,Property Tax,-1743.86,Housing
+2025-08-27,IKEA,-147.22,Shopping
+2025-08-27,Nike,-19.31,Shopping
+2025-08-27,AT&T,-204.91,Utilities
+2025-08-27,Property Tax,-933.87,Housing
+2025-08-27,Payroll Deposit - Company Inc,3195.07,Income
+2025-08-28,Marriott Hotel,-446.3,Travel
+2025-08-28,Starbucks,-31.72,Dining
+2025-08-28,Natural Gas Co,-160.44,Utilities
+2025-08-28,Walgreens,-25.33,Health
+2025-08-29,School Supplies,-4879.25,Education
+2025-08-29,Target,-245.08,Shopping
+2025-08-29,Delta Airlines,-782.33,Travel
+2025-08-29,Public Transit,-27.47,Transportation
+2025-08-29,Freelance Payment,5463.81,Income
+2025-08-29,Freelance Payment,4055.41,Income
+2025-08-29,Delta Airlines,-997.56,Travel
+2025-08-29,Parking Garage,-5.38,Transportation
+2025-08-30,Safeway,-161.79,Groceries
+2025-08-30,New York Times,-75.65,Subscriptions
+2025-08-31,Olive Garden,-30.38,Dining
+2025-08-31,City Water Department,-221.52,Utilities
+2025-09-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-09-01,Gym Membership,-45.0,Entertainment
+2025-09-01,Spotify Premium,-9.99,Entertainment
+2025-09-01,Rent Payment,-1200.0,Housing
+2025-09-01,Spectrum Internet,-67.78,Utilities
+2025-09-01,Hilton Hotels,-1118.6,Travel
+2025-09-01,Netflix,-15.99,Entertainment
+2025-09-02,Medical Clinic,-182.21,Health
+2025-09-02,Xbox Live,-57.82,Entertainment
+2025-09-02,Thai Restaurant,-89.75,Dining
+2025-09-02,HEB,-82.76,Groceries
+2025-09-02,Rite Aid,-121.0,Health
+2025-09-02,Udemy,-756.62,Education
+2025-09-02,Chick-fil-A,-93.03,Dining
+2025-09-02,Wall Street Journal,-57.65,Subscriptions
+2025-09-02,Staples,-93.72,Shopping
+2025-09-03,Expedia,-687.78,Travel
+2025-09-03,Cashback Reward,3068.19,Income
+2025-09-03,HEB,-137.37,Groceries
+2025-09-03,New York Times,-53.28,Subscriptions
+2025-09-03,Buffalo Wild Wings,-53.52,Dining
+2025-09-04,Safeway,-148.16,Groceries
+2025-09-04,Coursera,-4981.8,Education
+2025-09-04,Wall Street Journal,-36.18,Subscriptions
+2025-09-04,Udemy,-3185.86,Education
+2025-09-05,Comcast Internet,-161.86,Utilities
+2025-09-05,Electric Company,-120.0,Utilities
+2025-09-06,Airbnb,-1084.66,Travel
+2025-09-06,Natural Gas Co,-99.15,Utilities
+2025-09-06,Kindle Unlimited,-54.62,Subscriptions
+2025-09-06,Taco Bell,-79.21,Dining
+2025-09-07,Target,-309.2,Shopping
+2025-09-07,Yoga Studio,-131.15,Health
+2025-09-07,Google One Storage,-64.02,Subscriptions
+2025-09-07,Local Cafe,-68.79,Dining
+2025-09-07,McDonalds,-68.36,Dining
+2025-09-07,Verizon Wireless,-107.31,Utilities
+2025-09-07,Jiffy Lube,-37.07,Transportation
+2025-09-08,Chipotle Mexican Grill,-8.96,Dining
+2025-09-08,Rent Payment,-2368.57,Housing
+2025-09-08,Lab Tests,-155.84,Health
+2025-09-09,Airbnb,-1193.87,Travel
+2025-09-10,Subway,-46.27,Dining
+2025-09-10,Comcast Internet,-89.99,Utilities
+2025-09-10,Macys,-244.55,Shopping
+2025-09-10,Auto Repair Shop,-15.96,Transportation
+2025-09-10,Gap,-289.93,Shopping
+2025-09-10,Tax Refund,5200.32,Income
+2025-09-11,Textbook Store,-1809.33,Education
+2025-09-11,Spotify Premium,-46.43,Entertainment
+2025-09-11,Adobe Creative Cloud,-33.38,Subscriptions
+2025-09-11,Lab Tests,-99.93,Health
+2025-09-12,Costco,-83.28,Groceries
+2025-09-12,Electric Company,-54.87,Utilities
+2025-09-12,Amazon Prime,-14.99,Subscriptions
+2025-09-12,Target,-219.62,Shopping
+2025-09-13,AMC Theaters,-52.85,Entertainment
+2025-09-13,Student Loan Payment,-3388.17,Education
+2025-09-13,Amazon Prime Video,-10.99,Entertainment
+2025-09-13,University Tuition,-3763.83,Education
+2025-09-13,LinkedIn Premium,-64.93,Subscriptions
+2025-09-14,Physical Therapy,-152.69,Health
+2025-09-14,Regal Cinemas,-11.16,Entertainment
+2025-09-14,Health Insurance Premium,-29.98,Health
+2025-09-14,Yoga Studio,-75.48,Health
+2025-09-14,Lowes,-263.28,Shopping
+2025-09-14,Hilton Hotels,-126.99,Travel
+2025-09-14,Stop & Shop,-66.14,Groceries
+2025-09-14,Health Insurance Premium,-118.86,Health
+2025-09-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-09-15,Mortgage Payment,-1056.64,Housing
+2025-09-15,Amazon.com,-54.95,Shopping
+2025-09-15,New York Times,-64.74,Subscriptions
+2025-09-15,Cashback Reward,2673.49,Income
+2025-09-15,Verizon Wireless,-75.0,Utilities
+2025-09-15,Lab Tests,-81.7,Health
+2025-09-15,Eye Doctor,-93.26,Health
+2025-09-16,Freelance Payment,5066.93,Income
+2025-09-16,Kindle Unlimited,-58.56,Subscriptions
+2025-09-17,Olive Garden,-66.5,Dining
+2025-09-17,Airport Parking,-45.19,Transportation
+2025-09-17,Verizon Wireless,-201.94,Utilities
+2025-09-17,Hilton Hotels,-850.48,Travel
+2025-09-17,Zara,-89.5,Shopping
+2025-09-17,Trash Collection Service,-49.91,Utilities
+2025-09-17,Airbnb,-1318.4,Travel
+2025-09-18,Nike,-309.2,Shopping
+2025-09-18,United Airlines,-1396.84,Travel
+2025-09-18,LinkedIn Premium,-59.13,Subscriptions
+2025-09-18,Electric Company,-180.12,Utilities
+2025-09-18,Albertsons,-20.79,Groceries
+2025-09-18,Fitness Center,-65.67,Health
+2025-09-18,LinkedIn Premium,-48.53,Subscriptions
+2025-09-18,Zara,-151.38,Shopping
+2025-09-19,City Water Department,-175.59,Utilities
+2025-09-19,Physical Therapy,-109.35,Health
+2025-09-20,Rent Payment,-849.87,Housing
+2025-09-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-09-20,Microsoft 365,-20.54,Subscriptions
+2025-09-20,Uber Eats,-18.12,Dining
+2025-09-20,Uber,-56.53,Transportation
+2025-09-21,Lyft,-17.23,Transportation
+2025-09-21,Payroll Deposit - Company Inc,4735.0,Income
+2025-09-21,Online Course,-2490.33,Education
+2025-09-21,Thai Restaurant,-8.16,Dining
+2025-09-21,Xbox Live,-40.81,Entertainment
+2025-09-22,Gym Membership,-30.51,Entertainment
+2025-09-22,Grubhub,-56.14,Dining
+2025-09-22,Jiffy Lube,-59.1,Transportation
+2025-09-22,Home Insurance,-1105.47,Housing
+2025-09-22,Airport Parking,-17.13,Transportation
+2025-09-23,Eye Doctor,-85.54,Health
+2025-09-23,Mortgage Payment,-1115.88,Housing
+2025-09-23,Uber,-5.4,Transportation
+2025-09-23,Cashback Reward,609.11,Income
+2025-09-24,Google One Storage,-51.14,Subscriptions
+2025-09-24,Jiffy Lube,-27.89,Transportation
+2025-09-24,Aldi,-25.27,Groceries
+2025-09-24,Buffalo Wild Wings,-17.95,Dining
+2025-09-24,Chick-fil-A,-59.76,Dining
+2025-09-24,Dividend Payment,1114.66,Income
+2025-09-25,Disney Plus,-11.24,Entertainment
+2025-09-26,Enterprise Rent-A-Car,-1321.28,Travel
+2025-09-26,Aldi,-106.49,Groceries
+2025-09-26,Cashback Reward,1906.61,Income
+2025-09-27,Walmart Supercenter,-155.02,Groceries
+2025-09-27,LinkedIn Premium,-24.43,Subscriptions
+2025-09-27,Buffalo Wild Wings,-79.82,Dining
+2025-09-27,Lab Tests,-100.91,Health
+2025-09-27,Bank Interest,2497.8,Income
+2025-09-28,Airport Parking,-71.68,Transportation
+2025-09-28,Wall Street Journal,-23.52,Subscriptions
+2025-09-28,Amazon Prime Video,-45.5,Entertainment
+2025-09-28,Regal Cinemas,-8.3,Entertainment
+2025-09-29,Student Loan Payment,-2366.53,Education
+2025-09-29,Google One Storage,-19.83,Subscriptions
+2025-09-29,Lowes,-337.57,Shopping
+2025-09-29,Payroll Deposit - Company Inc,5374.18,Income
+2025-09-30,Physical Therapy,-93.53,Health
+2025-09-30,Walmart Supercenter,-63.37,Groceries
+2025-09-30,New York Times,-29.86,Subscriptions
+2025-09-30,Public Transit,-21.4,Transportation
+2025-09-30,Audible,-46.11,Subscriptions
+2025-10-01,Coursera,-4988.98,Education
+2025-10-01,Gym Membership,-45.0,Entertainment
+2025-10-01,Rent Payment,-1200.0,Housing
+2025-10-01,Spotify Premium,-9.99,Entertainment
+2025-10-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-10-01,Property Tax,-2330.34,Housing
+2025-10-01,Property Tax,-1354.95,Housing
+2025-10-01,Home Insurance,-1239.28,Housing
+2025-10-01,Netflix,-15.99,Entertainment
+2025-10-01,Metro Card,-17.38,Transportation
+2025-10-01,United Airlines,-841.22,Travel
+2025-10-02,IKEA,-141.48,Shopping
+2025-10-02,Shell Gas Station,-17.93,Transportation
+2025-10-02,Nordstrom,-120.53,Shopping
+2025-10-02,American Airlines,-657.2,Travel
+2025-10-02,HOA Fees,-2151.98,Housing
+2025-10-03,Lab Tests,-116.88,Health
+2025-10-03,HEB,-16.87,Groceries
+2025-10-03,Enterprise Rent-A-Car,-894.06,Travel
+2025-10-03,City Water Department,-172.69,Utilities
+2025-10-03,Textbook Store,-509.58,Education
+2025-10-03,BP Gas,-68.34,Transportation
+2025-10-05,Electric Company,-120.0,Utilities
+2025-10-05,Amazon.com,-129.67,Shopping
+2025-10-05,Comcast Internet,-182.18,Utilities
+2025-10-05,Stop & Shop,-175.28,Groceries
+2025-10-06,YouTube Premium,-29.2,Entertainment
+2025-10-06,Trash Collection Service,-49.1,Utilities
+2025-10-06,Amazon Prime Video,-29.76,Entertainment
+2025-10-06,Walmart Supercenter,-78.96,Groceries
+2025-10-06,Rent Payment,-1555.29,Housing
+2025-10-07,School Supplies,-1973.39,Education
+2025-10-07,Panera Bread,-34.6,Dining
+2025-10-07,Apartment Maintenance,-1223.31,Housing
+2025-10-07,Car Wash,-5.22,Transportation
+2025-10-08,Dentist Office,-167.82,Health
+2025-10-08,Natural Gas Co,-166.44,Utilities
+2025-10-08,Apple Store,-344.42,Shopping
+2025-10-08,Property Tax,-1702.84,Housing
+2025-10-09,Google One Storage,-42.03,Subscriptions
+2025-10-10,Udemy,-2253.96,Education
+2025-10-10,Mortgage Payment,-1783.51,Housing
+2025-10-10,Dentist Office,-73.29,Health
+2025-10-10,Airbnb,-1101.13,Travel
+2025-10-10,HOA Fees,-1891.69,Housing
+2025-10-10,Google One Storage,-45.45,Subscriptions
+2025-10-10,Comcast Internet,-89.99,Utilities
+2025-10-11,Dentist Office,-71.33,Health
+2025-10-11,Mortgage Payment,-1436.63,Housing
+2025-10-11,HOA Fees,-1870.76,Housing
+2025-10-12,Electric Company,-75.86,Utilities
+2025-10-12,Safeway,-25.79,Groceries
+2025-10-12,Amazon Prime,-14.99,Subscriptions
+2025-10-12,Olive Garden,-43.17,Dining
+2025-10-12,LinkedIn Premium,-66.55,Subscriptions
+2025-10-13,Nintendo eShop,-31.72,Entertainment
+2025-10-13,Spectrum Internet,-213.77,Utilities
+2025-10-13,Macys,-43.15,Shopping
+2025-10-13,Cashback Reward,5613.6,Income
+2025-10-13,Verizon Wireless,-163.13,Utilities
+2025-10-14,Google One Storage,-23.8,Subscriptions
+2025-10-14,Local Cafe,-88.97,Dining
+2025-10-15,Zara,-102.66,Shopping
+2025-10-15,Best Buy,-37.35,Shopping
+2025-10-15,Verizon Wireless,-75.0,Utilities
+2025-10-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-10-16,Sams Club,-69.79,Groceries
+2025-10-16,Walgreens,-52.28,Health
+2025-10-16,Office Depot,-156.15,Shopping
+2025-10-16,PlayStation Store,-31.13,Entertainment
+2025-10-16,Comcast Internet,-68.15,Utilities
+2025-10-16,Olive Garden,-81.69,Dining
+2025-10-16,Student Loan Payment,-873.9,Education
+2025-10-17,Target,-176.95,Shopping
+2025-10-17,Pizza Hut,-18.41,Dining
+2025-10-17,Steam,-12.83,Entertainment
+2025-10-17,Walmart Supercenter,-74.27,Groceries
+2025-10-18,Rite Aid,-85.16,Health
+2025-10-18,Lyft,-13.57,Transportation
+2025-10-18,Shell Gas Station,-14.17,Transportation
+2025-10-18,Apple Music,-9.5,Entertainment
+2025-10-18,Netflix,-31.55,Entertainment
+2025-10-18,Dividend Payment,4808.13,Income
+2025-10-18,Lyft,-31.75,Transportation
+2025-10-18,Eye Doctor,-161.99,Health
+2025-10-19,eBay,-181.81,Shopping
+2025-10-19,LinkedIn Premium,-75.08,Subscriptions
+2025-10-19,Dividend Payment,716.69,Income
+2025-10-19,Verizon Wireless,-244.96,Utilities
+2025-10-19,Adidas,-289.65,Shopping
+2025-10-19,Chevron,-53.52,Transportation
+2025-10-20,Rite Aid,-147.84,Health
+2025-10-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-10-20,Payroll Deposit - Company Inc,556.1,Income
+2025-10-20,Udemy,-1811.67,Education
+2025-10-20,Uber,-21.94,Transportation
+2025-10-20,Comcast Internet,-81.71,Utilities
+2025-10-21,Airport Parking,-61.14,Transportation
+2025-10-23,Udemy,-3073.49,Education
+2025-10-23,BP Gas,-52.6,Transportation
+2025-10-23,Yoga Studio,-43.37,Health
+2025-10-23,Medical Clinic,-43.75,Health
+2025-10-23,Google One Storage,-76.33,Subscriptions
+2025-10-23,Coursera,-381.73,Education
+2025-10-24,Airport Parking,-19.99,Transportation
+2025-10-24,American Airlines,-1217.74,Travel
+2025-10-24,Albertsons,-122.39,Groceries
+2025-10-24,Apple Music,-56.53,Entertainment
+2025-10-25,Lab Tests,-83.58,Health
+2025-10-25,PlayStation Store,-57.03,Entertainment
+2025-10-25,Best Buy,-154.83,Shopping
+2025-10-25,Netflix,-22.97,Entertainment
+2025-10-26,Buffalo Wild Wings,-8.87,Dining
+2025-10-26,Physical Therapy,-88.2,Health
+2025-10-27,Microsoft 365,-33.86,Subscriptions
+2025-10-27,Staples,-108.08,Shopping
+2025-10-27,Auto Repair Shop,-32.73,Transportation
+2025-10-27,Google One Storage,-33.15,Subscriptions
+2025-10-27,Parking Garage,-12.7,Transportation
+2025-10-28,AMC Theaters,-21.83,Entertainment
+2025-10-28,Trash Collection Service,-71.61,Utilities
+2025-10-28,Apartment Maintenance,-2147.73,Housing
+2025-10-28,YouTube Premium,-24.21,Entertainment
+2025-10-28,Marriott Hotel,-262.47,Travel
+2025-10-29,DoorDash,-94.24,Dining
+2025-10-29,Uber Eats,-70.58,Dining
+2025-10-29,Airbnb,-162.26,Travel
+2025-10-29,New York Times,-13.48,Subscriptions
+2025-10-30,Disney Plus,-37.39,Entertainment
+2025-10-30,Publix,-139.88,Groceries
+2025-10-30,Airbnb,-820.6,Travel
+2025-10-30,Trash Collection Service,-142.68,Utilities
+2025-10-30,School Supplies,-3965.36,Education
+2025-10-30,IKEA,-131.78,Shopping
+2025-10-30,Enterprise Rent-A-Car,-802.81,Travel
+2025-10-30,Coursera,-2144.13,Education
+2025-10-31,Car Wash,-67.71,Transportation
+2025-10-31,Chick-fil-A,-42.17,Dining
+2025-10-31,Rent Payment,-1486.05,Housing
+2025-11-01,Disney Plus,-29.6,Entertainment
+2025-11-01,Gym Membership,-45.0,Entertainment
+2025-11-01,Netflix,-15.99,Entertainment
+2025-11-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-11-01,Spotify Premium,-9.99,Entertainment
+2025-11-01,Tax Refund,1915.03,Income
+2025-11-01,Rent Payment,-1200.0,Housing
+2025-11-01,Prescription Refill,-130.75,Health
+2025-11-02,Dominos Pizza,-60.94,Dining
+2025-11-02,School Supplies,-296.0,Education
+2025-11-02,Sams Club,-177.3,Groceries
+2025-11-02,Gift Money,5041.26,Income
+2025-11-03,Costco,-72.82,Groceries
+2025-11-03,Public Transit,-19.91,Transportation
+2025-11-03,Nintendo eShop,-14.92,Entertainment
+2025-11-03,Panera Bread,-63.72,Dining
+2025-11-03,eBay,-250.33,Shopping
+2025-11-03,Microsoft 365,-14.59,Subscriptions
+2025-11-04,Nintendo eShop,-37.38,Entertainment
+2025-11-04,Hertz Rental Car,-249.05,Travel
+2025-11-04,Google One Storage,-18.49,Subscriptions
+2025-11-04,Spotify Premium,-28.94,Entertainment
+2025-11-04,Lab Tests,-77.42,Health
+2025-11-04,Aldi,-130.68,Groceries
+2025-11-04,Auto Repair Shop,-39.4,Transportation
+2025-11-05,Comcast Internet,-157.05,Utilities
+2025-11-05,Electric Company,-120.0,Utilities
+2025-11-05,Whole Foods Market,-87.31,Groceries
+2025-11-05,Target,-147.87,Groceries
+2025-11-05,YouTube Premium,-54.62,Entertainment
+2025-11-06,Xbox Live,-57.42,Entertainment
+2025-11-06,Hilton Hotels,-367.44,Travel
+2025-11-06,Freelance Payment,1833.0,Income
+2025-11-06,Lab Tests,-162.88,Health
+2025-11-06,Cashback Reward,3046.15,Income
+2025-11-06,Kindle Unlimited,-77.42,Subscriptions
+2025-11-06,Textbook Store,-3267.3,Education
+2025-11-06,Spotify Premium,-16.35,Entertainment
+2025-11-06,Apartment Maintenance,-2012.82,Housing
+2025-11-07,Shell Gas Station,-17.04,Transportation
+2025-11-07,eBay,-89.72,Shopping
+2025-11-08,Home Insurance,-1936.77,Housing
+2025-11-08,United Airlines,-943.27,Travel
+2025-11-08,Mortgage Payment,-1763.51,Housing
+2025-11-08,Textbook Store,-587.86,Education
+2025-11-08,Medical Clinic,-102.55,Health
+2025-11-09,Metro Card,-58.67,Transportation
+2025-11-09,HOA Fees,-2377.98,Housing
+2025-11-09,Apartment Maintenance,-2357.18,Housing
+2025-11-09,Trader Joes,-87.64,Groceries
+2025-11-09,Online Course,-1298.01,Education
+2025-11-09,Auto Repair Shop,-37.79,Transportation
+2025-11-09,Home Insurance,-1130.44,Housing
+2025-11-10,HOA Fees,-1008.77,Housing
+2025-11-10,Panera Bread,-30.32,Dining
+2025-11-10,Coursera,-2278.27,Education
+2025-11-10,Comcast Internet,-89.99,Utilities
+2025-11-10,Coursera,-1965.9,Education
+2025-11-11,Publix,-148.95,Groceries
+2025-11-11,Bank Interest,1179.49,Income
+2025-11-11,Spectrum Internet,-203.55,Utilities
+2025-11-12,Food Lion,-72.1,Groceries
+2025-11-12,Electric Company,-246.25,Utilities
+2025-11-12,Home Insurance,-1297.39,Housing
+2025-11-12,Amazon Prime,-14.99,Subscriptions
+2025-11-12,Gym Membership,-36.64,Entertainment
+2025-11-13,Safeway,-83.54,Groceries
+2025-11-13,Food Lion,-104.17,Groceries
+2025-11-13,Publix,-147.99,Groceries
+2025-11-13,School Supplies,-2437.17,Education
+2025-11-14,Tax Refund,4346.78,Income
+2025-11-14,Hulu,-38.36,Entertainment
+2025-11-14,Gift Money,2838.04,Income
+2025-11-14,Red Lobster,-88.74,Dining
+2025-11-14,Side Hustle Income,4409.27,Income
+2025-11-15,HOA Fees,-1782.99,Housing
+2025-11-15,Verizon Wireless,-75.0,Utilities
+2025-11-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-11-15,Spectrum Internet,-210.48,Utilities
+2025-11-15,HBO Max,-53.6,Entertainment
+2025-11-15,PlayStation Store,-33.4,Entertainment
+2025-11-16,HOA Fees,-2176.9,Housing
+2025-11-16,Tax Refund,3523.06,Income
+2025-11-16,Health Insurance Premium,-41.33,Health
+2025-11-16,Fitness Center,-104.21,Health
+2025-11-16,Gift Money,3304.08,Income
+2025-11-16,Chick-fil-A,-32.38,Dining
+2025-11-16,Airbnb,-1330.17,Travel
+2025-11-16,Lab Tests,-181.75,Health
+2025-11-16,Sams Club,-174.67,Groceries
+2025-11-16,Gift Money,5010.55,Income
+2025-11-17,Microsoft 365,-76.46,Subscriptions
+2025-11-17,Steam,-32.96,Entertainment
+2025-11-17,Metro Card,-23.74,Transportation
+2025-11-18,Buffalo Wild Wings,-16.85,Dining
+2025-11-18,New York Times,-40.15,Subscriptions
+2025-11-18,Parking Garage,-28.19,Transportation
+2025-11-18,T-Mobile,-195.25,Utilities
+2025-11-19,Payroll Deposit - Company Inc,1112.2,Income
+2025-11-19,Spotify Premium,-12.28,Entertainment
+2025-11-19,United Airlines,-998.74,Travel
+2025-11-19,Parking Garage,-16.34,Transportation
+2025-11-19,Coursera,-1288.16,Education
+2025-11-19,Chipotle Mexican Grill,-56.33,Dining
+2025-11-19,Comcast Internet,-126.73,Utilities
+2025-11-19,Bank Interest,2654.72,Income
+2025-11-19,Microsoft 365,-69.51,Subscriptions
+2025-11-20,Kindle Unlimited,-57.57,Subscriptions
+2025-11-20,DoorDash,-11.0,Dining
+2025-11-20,Hertz Rental Car,-1372.2,Travel
+2025-11-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-11-20,Wall Street Journal,-44.28,Subscriptions
+2025-11-21,Medical Clinic,-154.43,Health
+2025-11-21,HEB,-140.88,Groceries
+2025-11-21,Wall Street Journal,-40.57,Subscriptions
+2025-11-21,City Water Department,-100.0,Utilities
+2025-11-22,Uber,-40.63,Transportation
+2025-11-23,Student Loan Payment,-2387.78,Education
+2025-11-23,Prescription Refill,-80.92,Health
+2025-11-23,Property Tax,-1169.38,Housing
+2025-11-23,Microsoft 365,-49.92,Subscriptions
+2025-11-23,Apartment Maintenance,-2265.12,Housing
+2025-11-23,Udemy,-1434.69,Education
+2025-11-23,Dropbox Pro,-28.24,Subscriptions
+2025-11-23,Spectrum Internet,-83.48,Utilities
+2025-11-24,Airport Parking,-25.97,Transportation
+2025-11-24,University Tuition,-1553.52,Education
+2025-11-24,City Water Department,-226.99,Utilities
+2025-11-25,Netflix,-16.54,Entertainment
+2025-11-25,Target,-152.89,Groceries
+2025-11-26,Spotify Premium,-14.02,Entertainment
+2025-11-26,YouTube Premium,-49.07,Entertainment
+2025-11-26,Health Insurance Premium,-178.01,Health
+2025-11-26,Apple Store,-169.2,Shopping
+2025-11-26,Spectrum Internet,-110.05,Utilities
+2025-11-27,Apartment Maintenance,-1362.86,Housing
+2025-11-27,Payroll Deposit - Company Inc,4643.77,Income
+2025-11-27,Regal Cinemas,-41.15,Entertainment
+2025-11-27,Dividend Payment,1253.47,Income
+2025-11-27,Side Hustle Income,5658.23,Income
+2025-11-27,YouTube Premium,-25.34,Entertainment
+2025-11-27,Delta Airlines,-983.55,Travel
+2025-11-27,Rite Aid,-168.32,Health
+2025-11-27,Publix,-30.73,Groceries
+2025-11-28,Rent Payment,-901.01,Housing
+2025-11-28,Audible,-10.33,Subscriptions
+2025-11-28,Exxon Mobil,-62.89,Transportation
+2025-11-29,Tax Refund,1465.93,Income
+2025-11-29,University Tuition,-2816.47,Education
+2025-11-29,Prescription Refill,-61.73,Health
+2025-11-29,Spectrum Internet,-76.98,Utilities
+2025-11-29,Rent Payment,-2197.92,Housing
+2025-11-29,Verizon Wireless,-52.42,Utilities
+2025-11-30,Fitness Center,-171.53,Health
+2025-11-30,School Supplies,-2793.21,Education
+2025-11-30,Food Lion,-86.49,Groceries
+2025-11-30,Grubhub,-74.93,Dining
+2025-12-01,Gym Membership,-45.0,Entertainment
+2025-12-01,New York Times,-75.97,Subscriptions
+2025-12-01,Netflix,-15.99,Entertainment
+2025-12-01,Google One Storage,-78.6,Subscriptions
+2025-12-01,Local Cafe,-89.25,Dining
+2025-12-01,Apple Store,-111.08,Shopping
+2025-12-01,Rent Payment,-1200.0,Housing
+2025-12-01,Payroll Deposit - Company Inc,3500.0,Income
+2025-12-01,Spotify Premium,-9.99,Entertainment
+2025-12-02,Student Loan Payment,-1020.58,Education
+2025-12-03,Gym Membership,-52.94,Entertainment
+2025-12-03,Regal Cinemas,-49.73,Entertainment
+2025-12-03,New York Times,-16.34,Subscriptions
+2025-12-04,New York Times,-34.96,Subscriptions
+2025-12-04,Apartment Maintenance,-1783.67,Housing
+2025-12-04,Shell Gas Station,-20.74,Transportation
+2025-12-04,United Airlines,-616.44,Travel
+2025-12-04,New York Times,-40.64,Subscriptions
+2025-12-04,HOA Fees,-2028.34,Housing
+2025-12-04,University Tuition,-1351.79,Education
+2025-12-05,New York Times,-37.01,Subscriptions
+2025-12-05,Microsoft 365,-31.08,Subscriptions
+2025-12-05,Jiffy Lube,-40.34,Transportation
+2025-12-05,Starbucks,-17.23,Dining
+2025-12-05,American Airlines,-796.09,Travel
+2025-12-05,Audible,-69.15,Subscriptions
+2025-12-05,Electric Company,-120.0,Utilities
+2025-12-06,City Water Department,-249.62,Utilities
+2025-12-06,Hertz Rental Car,-506.32,Travel
+2025-12-06,Auto Repair Shop,-56.92,Transportation
+2025-12-07,Rent Payment,-1579.0,Housing
+2025-12-07,United Airlines,-1094.39,Travel
+2025-12-07,New York Times,-73.78,Subscriptions
+2025-12-07,Exxon Mobil,-40.0,Transportation
+2025-12-08,LinkedIn Premium,-24.72,Subscriptions
+2025-12-08,Airbnb,-1310.67,Travel
+2025-12-08,Nike,-194.98,Shopping
+2025-12-10,Taco Bell,-27.55,Dining
+2025-12-10,Hulu,-26.66,Entertainment
+2025-12-10,YouTube Premium,-20.2,Entertainment
+2025-12-10,Comcast Internet,-89.99,Utilities
+2025-12-10,Side Hustle Income,4117.49,Income
+2025-12-11,University Tuition,-2629.31,Education
+2025-12-11,Airport Parking,-56.78,Transportation
+2025-12-12,Rent Payment,-2377.08,Housing
+2025-12-12,Home Insurance,-2429.29,Housing
+2025-12-12,Jiffy Lube,-44.48,Transportation
+2025-12-12,Google One Storage,-22.91,Subscriptions
+2025-12-12,Amazon Prime,-14.99,Subscriptions
+2025-12-12,Expedia,-490.97,Travel
+2025-12-12,Best Buy,-296.55,Shopping
+2025-12-12,Car Wash,-23.77,Transportation
+2025-12-12,Dropbox Pro,-66.01,Subscriptions
+2025-12-13,Adobe Creative Cloud,-51.67,Subscriptions
+2025-12-13,Bank Interest,4684.3,Income
+2025-12-13,YouTube Premium,-55.81,Entertainment
+2025-12-14,Gift Money,3654.81,Income
+2025-12-14,Tax Refund,2682.22,Income
+2025-12-14,Gym Membership,-23.33,Entertainment
+2025-12-14,Xbox Live,-47.94,Entertainment
+2025-12-15,Expedia,-427.75,Travel
+2025-12-15,Jiffy Lube,-18.82,Transportation
+2025-12-15,Verizon Wireless,-75.0,Utilities
+2025-12-15,Comcast Internet,-171.99,Utilities
+2025-12-15,Metro Card,-46.17,Transportation
+2025-12-15,Home Insurance,-845.49,Housing
+2025-12-15,Hilton Hotels,-114.37,Travel
+2025-12-15,Payroll Deposit - Company Inc,3500.0,Income
+2025-12-16,Public Transit,-70.09,Transportation
+2025-12-16,Student Loan Payment,-554.04,Education
+2025-12-16,Chevron,-68.99,Transportation
+2025-12-16,Natural Gas Co,-239.28,Utilities
+2025-12-16,Apartment Maintenance,-1376.03,Housing
+2025-12-16,T-Mobile,-113.27,Utilities
+2025-12-16,Uber,-32.86,Transportation
+2025-12-17,University Tuition,-3768.36,Education
+2025-12-17,Rent Payment,-2416.64,Housing
+2025-12-17,Apartment Maintenance,-2443.2,Housing
+2025-12-17,Gym Membership,-15.32,Entertainment
+2025-12-17,Subway,-31.39,Dining
+2025-12-17,Electric Company,-62.87,Utilities
+2025-12-17,Adobe Creative Cloud,-47.31,Subscriptions
+2025-12-18,HOA Fees,-850.03,Housing
+2025-12-18,LinkedIn Premium,-9.92,Subscriptions
+2025-12-18,Hilton Hotels,-789.04,Travel
+2025-12-19,Comcast Internet,-55.62,Utilities
+2025-12-19,Wall Street Journal,-58.17,Subscriptions
+2025-12-19,Southwest Airlines,-262.23,Travel
+2025-12-20,Nordstrom,-176.29,Shopping
+2025-12-20,Mortgage Payment,-1764.87,Housing
+2025-12-20,Pizza Hut,-66.2,Dining
+2025-12-20,Coursera,-1373.68,Education
+2025-12-20,Adobe Creative Cloud,-54.99,Subscriptions
+2025-12-20,Trash Collection Service,-225.13,Utilities
+2025-12-21,Apartment Maintenance,-2466.03,Housing
+2025-12-21,Netflix,-59.99,Entertainment
+2025-12-21,Enterprise Rent-A-Car,-1004.41,Travel
+2025-12-21,Gap,-24.66,Shopping
+2025-12-22,New York Times,-45.95,Subscriptions
+2025-12-22,YouTube Premium,-47.68,Entertainment
+2025-12-23,Metro Card,-62.72,Transportation
+2025-12-23,Physical Therapy,-182.65,Health
+2025-12-24,Spotify Premium,-30.66,Entertainment
+2025-12-24,Walgreens,-93.45,Health
+2025-12-25,Public Transit,-7.7,Transportation
+2025-12-25,Stop & Shop,-22.28,Groceries
+2025-12-26,Sams Club,-139.64,Groceries
+2025-12-26,Trader Joes,-159.3,Groceries
+2025-12-26,Grubhub,-18.1,Dining
+2025-12-27,Jiffy Lube,-19.68,Transportation
+2025-12-27,Side Hustle Income,4602.92,Income
+2025-12-27,Sushi Bar,-72.57,Dining
+2025-12-27,Side Hustle Income,5703.22,Income
+2025-12-27,HOA Fees,-957.87,Housing
+2025-12-28,Public Transit,-31.17,Transportation
+2025-12-28,Jiffy Lube,-62.76,Transportation
+2025-12-28,Coursera,-4991.91,Education
+2025-12-28,Rent Payment,-1082.43,Housing
+2025-12-29,Electric Company,-60.77,Utilities
+2025-12-29,Dividend Payment,632.52,Income
+2025-12-29,Lyft,-17.32,Transportation
+2025-12-29,Expedia,-1340.89,Travel
+2025-12-29,YouTube Premium,-44.53,Entertainment
+2025-12-29,Publix,-26.11,Groceries
+2025-12-29,HBO Max,-39.3,Entertainment
+2025-12-30,Xbox Live,-41.46,Entertainment
+2025-12-30,Rent Payment,-1110.95,Housing
+2025-12-30,Dividend Payment,1497.49,Income
+2025-12-30,University Tuition,-1921.95,Education
+2025-12-30,Dominos Pizza,-51.09,Dining
+2025-12-31,Parking Garage,-72.53,Transportation
+2025-12-31,Cashback Reward,2033.68,Income
+2025-12-31,Apple Music,-21.41,Entertainment
+2025-12-31,BP Gas,-50.89,Transportation
+2025-12-31,Marriott Hotel,-324.97,Travel
+2025-12-31,Spectrum Internet,-57.19,Utilities
+2025-12-31,Airbnb,-393.31,Travel
+2026-01-01,Rent Payment,-1200.0,Housing
+2026-01-01,Netflix,-15.99,Entertainment
+2026-01-01,Auto Repair Shop,-36.42,Transportation
+2026-01-01,Gym Membership,-45.0,Entertainment
+2026-01-01,Spotify Premium,-9.99,Entertainment
+2026-01-01,Payroll Deposit - Company Inc,3500.0,Income
+2026-01-02,Nordstrom,-70.0,Shopping
+2026-01-02,Enterprise Rent-A-Car,-685.91,Travel
+2026-01-02,Dividend Payment,855.99,Income
+2026-01-03,Kroger,-62.09,Groceries
+2026-01-03,Gift Money,631.41,Income
+2026-01-03,Rent Payment,-1720.79,Housing
+2026-01-03,AT&T,-197.11,Utilities
+2026-01-03,Rent Payment,-2193.34,Housing
+2026-01-04,Apple Music,-28.04,Entertainment
+2026-01-04,Online Course,-1298.5,Education
+2026-01-05,Electric Company,-120.0,Utilities
+2026-01-05,H&M,-262.62,Shopping
+2026-01-05,Food Lion,-113.15,Groceries
+2026-01-05,Nike,-56.22,Shopping
+2026-01-05,Lab Tests,-127.03,Health
+2026-01-05,United Airlines,-519.39,Travel
+2026-01-05,CVS Pharmacy,-71.96,Health
+2026-01-05,Xbox Live,-36.01,Entertainment
+2026-01-06,Target,-36.81,Groceries
+2026-01-06,Yoga Studio,-112.88,Health
+2026-01-06,Audible,-31.89,Subscriptions
+2026-01-06,School Supplies,-3801.89,Education
+2026-01-07,American Airlines,-162.45,Travel
+2026-01-07,Bank Interest,1986.45,Income
+2026-01-07,Tax Refund,5595.78,Income
+2026-01-07,Gym Membership,-59.14,Entertainment
+2026-01-07,Gap,-333.2,Shopping
+2026-01-08,Steam,-56.24,Entertainment
+2026-01-08,Apple Music,-56.44,Entertainment
+2026-01-08,Side Hustle Income,2352.23,Income
+2026-01-08,Rent Payment,-1791.09,Housing
+2026-01-09,Uber,-9.62,Transportation
+2026-01-09,Nike,-217.76,Shopping
+2026-01-09,Coursera,-2548.02,Education
+2026-01-09,Freelance Payment,4898.3,Income
+2026-01-09,HOA Fees,-1292.64,Housing
+2026-01-09,Online Course,-954.46,Education
+2026-01-09,Spotify Premium,-11.03,Entertainment
+2026-01-10,Comcast Internet,-89.99,Utilities
+2026-01-10,Food Lion,-141.51,Groceries
+2026-01-11,Aldi,-49.08,Groceries
+2026-01-11,Dominos Pizza,-75.8,Dining
+2026-01-11,Hulu,-57.17,Entertainment
+2026-01-12,Audible,-16.26,Subscriptions
+2026-01-12,Amazon Prime,-14.99,Subscriptions
+2026-01-12,Auto Repair Shop,-36.07,Transportation
+2026-01-12,Lyft,-52.68,Transportation
+2026-01-12,Steam,-44.43,Entertainment
+2026-01-13,Home Depot,-250.56,Shopping
+2026-01-13,New York Times,-66.4,Subscriptions
+2026-01-13,Physical Therapy,-23.72,Health
+2026-01-13,Zara,-246.45,Shopping
+2026-01-14,Udemy,-1061.2,Education
+2026-01-15,Verizon Wireless,-75.0,Utilities
+2026-01-15,Payroll Deposit - Company Inc,3500.0,Income
+2026-01-15,YouTube Premium,-9.39,Entertainment
+2026-01-15,Shell Gas Station,-15.71,Transportation
+2026-01-15,Steam,-33.24,Entertainment
+2026-01-15,Thai Restaurant,-29.45,Dining
+2026-01-16,Whole Foods Market,-105.67,Groceries
+2026-01-16,Dentist Office,-56.03,Health
+2026-01-16,Hilton Hotels,-1069.92,Travel
+2026-01-17,McDonalds,-45.93,Dining
+2026-01-17,Old Navy,-185.24,Shopping
+2026-01-17,Wall Street Journal,-47.09,Subscriptions
+2026-01-17,Hilton Hotels,-553.72,Travel
+2026-01-17,Dentist Office,-101.04,Health
+2026-01-17,Natural Gas Co,-167.23,Utilities
+2026-01-18,Prescription Refill,-54.38,Health
+2026-01-18,Natural Gas Co,-203.69,Utilities
+2026-01-19,Wall Street Journal,-32.28,Subscriptions
+2026-01-19,Public Transit,-21.11,Transportation
+2026-01-19,Bank Interest,3395.78,Income
+2026-01-20,Adobe Creative Cloud,-54.99,Subscriptions
+2026-01-20,Coursera,-162.99,Education
+2026-01-20,Trader Joes,-158.33,Groceries
+2026-01-20,Trader Joes,-44.15,Groceries
+2026-01-21,DoorDash,-37.98,Dining
+2026-01-21,Yoga Studio,-29.42,Health
+2026-01-21,Mortgage Payment,-990.67,Housing
+2026-01-21,Shell Gas Station,-26.76,Transportation
+2026-01-22,Publix,-104.95,Groceries
+2026-01-22,Office Depot,-228.21,Shopping
+2026-01-22,City Water Department,-198.35,Utilities
+2026-01-22,Zara,-240.78,Shopping
+2026-01-22,Whole Foods Market,-49.25,Groceries
+2026-01-22,Taco Bell,-46.96,Dining
+2026-01-22,Wegmans,-84.79,Groceries
+2026-01-23,Old Navy,-310.83,Shopping
+2026-01-23,Rent Payment,-1528.37,Housing
+2026-01-23,Costco,-29.42,Groceries
+2026-01-23,Uber Eats,-78.04,Dining
+2026-01-24,Apple Music,-38.63,Entertainment
+2026-01-24,Office Depot,-102.19,Shopping
+2026-01-24,Netflix,-24.43,Entertainment
+2026-01-25,Nike,-24.49,Shopping
+2026-01-25,Kindle Unlimited,-23.57,Subscriptions
+2026-01-25,Red Lobster,-94.11,Dining
+2026-01-26,Staples,-127.88,Shopping
+2026-01-26,Kindle Unlimited,-24.4,Subscriptions
+2026-01-26,University Tuition,-4395.99,Education
+2026-01-26,Rite Aid,-102.49,Health
+2026-01-26,Natural Gas Co,-193.27,Utilities
+2026-01-27,DoorDash,-37.24,Dining
+2026-01-27,Car Wash,-65.37,Transportation
+2026-01-27,Cashback Reward,3276.82,Income
+2026-01-27,HBO Max,-33.18,Entertainment
+2026-01-27,Gift Money,2453.65,Income
+2026-01-28,Delta Airlines,-649.06,Travel
+2026-01-28,Bank Interest,3544.83,Income
+2026-01-28,Costco,-155.77,Groceries
+2026-01-28,Udemy,-106.11,Education
+2026-01-28,Google One Storage,-38.64,Subscriptions
+2026-01-28,Netflix,-11.56,Entertainment
+2026-01-28,CVS Pharmacy,-124.02,Health
+2026-01-29,Public Transit,-21.24,Transportation
+2026-01-29,Wall Street Journal,-32.41,Subscriptions
+2026-01-30,Local Cafe,-88.15,Dining
+2026-01-30,Pizza Hut,-83.68,Dining
+2026-01-30,Fitness Center,-39.92,Health
+2026-01-31,University Tuition,-713.16,Education
+2026-01-31,Dividend Payment,5605.93,Income
+2026-02-01,Tax Refund,1674.9,Income
+2026-02-01,Google One Storage,-73.77,Subscriptions
+2026-02-01,Comcast Internet,-217.27,Utilities
+2026-02-01,Chevron,-14.0,Transportation
+2026-02-01,DoorDash,-29.32,Dining
+2026-02-02,New York Times,-65.8,Subscriptions
+2026-02-02,Home Insurance,-2335.06,Housing
+2026-02-02,Regal Cinemas,-29.88,Entertainment
+2026-02-02,Dentist Office,-135.42,Health
+2026-02-03,Dentist Office,-157.32,Health
+2026-02-03,University Tuition,-4784.35,Education
+2026-02-03,Netflix,-17.56,Entertainment
+2026-02-03,Freelance Payment,1519.92,Income
+2026-02-03,Hertz Rental Car,-784.63,Travel
+2026-02-03,Target,-222.96,Shopping
+2026-02-03,Stop & Shop,-131.23,Groceries
+2026-02-03,Airport Parking,-21.99,Transportation

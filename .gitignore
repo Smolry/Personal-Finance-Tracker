@@ -1,9 +1,51 @@
+# --------------------
+# Python
+# --------------------
 __pycache__/
-*.pyc
-.DS_Store
-venv/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
 .env
-*.pkl
-data/finance.db
-data/raw/*
-data/processed/*
+.venv/
+venv/
+ENV/
+env/
+
+
+
+
+
+# --------------------
+# Generated outputs
+# --------------------
+visualizations/
+outputs/
+logs/
+
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# --------------------
+# SQLite / local DB
+# --------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# --------------------
+# Temporary files
+# --------------------
+*.tmp
+*.swp
