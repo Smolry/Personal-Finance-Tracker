@@ -1,4 +1,4 @@
-# 💰 Personal Finance Tracker with ML-Powered Categorization
+#  Personal Finance Tracker with ML-Powered Categorization
 
 An intelligent personal finance management system that automatically categorizes transactions using machine learning, detects recurring expenses, and provides data-driven budget recommendations.
 
@@ -8,13 +8,13 @@ An intelligent personal finance management system that automatically categorizes
 
 ## 🔗 Live Demo
 
-👉 **[Try it on Streamlit Cloud](https://personal-finance-tracker-smolry.streamlit.app/)**
+ **[Try it on Streamlit Cloud](https://personal-finance-tracker-smolry.streamlit.app/)**
 
 ---
 
 ## ✨ Key Features
 
-### 🤖 Machine Learning
+###  Machine Learning
 - **Automated Transaction Categorization** using Random Forest classifier
 - **TF-IDF Feature Engineering** with bi-gram analysis  
 - **Model Versioning** with timestamp-based tracking
@@ -22,12 +22,12 @@ An intelligent personal finance management system that automatically categorizes
 - **Confidence Scoring** for active learning
 - **Hyperparameter Tuning** via GridSearchCV
 
-### 📊 Financial Analytics
-- 📈 **Visual Spending Insights** with interactive charts
-- 🔁 **Recurring Transaction Detection** (subscriptions, bills)
-- 💡 **Smart Budget Recommendations** based on historical patterns
-- 📅 **Monthly/Category-wise Breakdowns**
-- 💾 **SQLite Persistence** for data storage
+###  Financial Analytics
+-  **Visual Spending Insights** with interactive charts
+-  **Recurring Transaction Detection** (subscriptions, bills)
+-  **Smart Budget Recommendations** based on historical patterns
+-  **Monthly/Category-wise Breakdowns**
+-  **SQLite Persistence** for data storage
 
 ### 🎯 ML Performance
 - **73.3% Test Accuracy** on 1600+ transaction dataset
@@ -66,7 +66,7 @@ Personal-Finance-Tracker/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -103,7 +103,7 @@ python scripts/train_model.py
 
 ---
 
-## 🧠 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 ### 1. Feature Engineering
 - **TF-IDF Vectorization** with ngram_range=(1,2)
@@ -177,7 +177,7 @@ Each trained model gets:
 
 ---
 
-## 🔬 Jupyter Notebook - Full ML Pipeline
+##  Jupyter Notebook - Full ML Pipeline
 
 Check out [`ML_Pipeline_Finance_Tracker.ipynb`](notebooks/ML_Pipeline_Finance_Tracker.ipynb) for:
 - Exploratory Data Analysis
@@ -188,24 +188,6 @@ Check out [`ML_Pipeline_Finance_Tracker.ipynb`](notebooks/ML_Pipeline_Finance_Tr
 - Feature importance visualization
 
 Perfect for presenting in ML interviews!
-
----
-
-## 📈 Future Improvements
-
-### Planned Enhancements
-- [ ] **Upgrade to Transformer Models** (DistilBERT for semantic understanding)
-- [ ] **Active Learning Pipeline** (flag low-confidence predictions for manual review)
-- [ ] **Anomaly Detection** (Isolation Forest for fraud/error detection)
-- [ ] **Model Retraining Automation** (monthly retraining with drift detection)
-- [ ] **A/B Testing Framework** (compare ML vs. rule-based categorization)
-- [ ] **MLflow Integration** for experiment tracking
-
-### Production Deployment
-- [ ] API endpoint for batch categorization
-- [ ] Docker containerization
-- [ ] CI/CD pipeline with model validation
-- [ ] Monitoring dashboard (accuracy over time, category drift)
 
 ---
 
@@ -238,34 +220,3 @@ Accepts CSV files with columns:
 - `Amount` (positive = income, negative = expense)
 
 ---
-
-## 🤝 Contributing
-
-Contributions welcome! Areas to help:
-1. Add support for more transaction file formats (OFX, QIF)
-2. Implement additional ML models (BERT, XGBoost)
-3. Build export functionality (PDF reports)
-4. Add dark mode UI
-
----
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details
-
----
-
-## 👤 Author
-
-**Aniket Behera**
-- GitHub: [@Smolry](https://github.com/Smolry)
-- LinkedIn: [aniket-behera-6a1192231](https://linkedin.com/in/aniket-behera-6a1192231)
-- Email: aniket.behera.0301@gmail.com
-
----
-
-## 🙏 Acknowledgments
-
-- Transaction dataset inspired by real banking data patterns
-- ML pipeline follows industry best practices from scikit-learn documentation
-- UI design influenced by modern fintech apps
